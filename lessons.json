@@ -1,0 +1,24 @@
+{
+  "lessons": [
+      {
+          "id": 1,
+          "sentences": [
+              "What is your name",
+              "How old are you",
+              "Where do you come from",
+              "This is my book",
+              "The sun is bright today"
+          ]
+      },
+      {
+          "id": 2,
+          "sentences": [
+              "I like to play football",
+              "She is reading a book",
+              "We are going to the park",
+              "He has a red car",
+              "They are eating lunch"
+          ]
+      }
+  ]
+}
