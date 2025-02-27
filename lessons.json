@@ -1,24 +1,129 @@
 {
   "lessons": [
-      {
-          "id": 1,
-          "sentences": [
-              "What is your name",
-              "How old are you",
-              "Where do you come from",
-              "This is my book",
-              "The sun is bright today"
-          ]
-      },
-      {
-          "id": 2,
-          "sentences": [
-              "I like to play football",
-              "She is reading a book",
-              "We are going to the park",
-              "He has a red car",
-              "They are eating lunch"
-          ]
-      }
+    {
+      "id": 1,
+      "sentences": ["zyad",
+        "What is your name",
+        "How old are you",
+        "Where do you come from",
+        "This is my book",
+        "The sun is bright today"
+      ]
+    },
+    {
+      "id": 2,
+      "sentences": [
+        "I like to play football",
+        "She is reading a book",
+        "We are going to the park",
+        "He has a red car",
+        "They are eating lunch"
+      ]
+    },
+    {
+      "id": 3,
+      "sentences": [
+        "My brother works as a doctor",
+        "The sun rises in the east",
+        "She bought a new dress",
+        "We watched a great movie last night",
+        "He speaks three languages fluently"
+      ]
+    },
+    {
+      "id": 4,
+      "sentences": [
+        "The dog barked loudly",
+        "She is learning Spanish",
+        "We saw a rainbow after the rain",
+        "He runs every morning before work",
+        "They invited us to their wedding"
+      ]
+    },
+    {
+      "id": 5,
+      "sentences": [
+        "The baby is crying",
+        "She loves listening to music",
+        "We had dinner at a fancy restaurant",
+        "He plays basketball with his friends",
+        "They are studying for their exams"
+      ]
+    },
+    {
+      "id": 6,
+      "sentences": [
+        "The stars shine brightly at night.",
+        "She whispered a secret to her friend.",
+        "We traveled to Japan last summer.",
+        "He adopted a cute little kitten.",
+        "They won the championship trophy.",
+        "The waves crashed against the rocks.",
+        "She designed a beautiful wedding dress.",
+        "We listened to classical music while studying.",
+        "He discovered a hidden talent for singing.",
+        "They enjoyed the roller coaster ride at the amusement park."
+      ]
+    },
+    {
+      "id": 7,
+      "sentences": [
+        "The clock is ticking loudly.",
+        "She baked a chocolate cake for her birthday.",
+        "We planted flowers in the garden.",
+        "He solved a difficult math problem.",
+        "They danced under the moonlight.",
+        "The birds chirped happily in the morning.",
+        "She took a deep breath before her speech.",
+        "We explored a mysterious cave during our trip.",
+        "He built a treehouse in his backyard.",
+        "They cheered for their favorite soccer team."
+      ]
+    },
+    {
+      "id": 8,
+      "sentences": [
+        "The river flows gently through the valley.",
+        "She prepared a delicious meal for her family.",
+        "We watched a documentary about space exploration.",
+        "He painted a masterpiece on a large canvas.",
+        "They climbed the tallest mountain in the region.",
+        "The thunderstorm was loud and scary.",
+        "She wrote a heartfelt letter to her friend.",
+        "We rescued a stray dog and gave it a home.",
+        "He learned to play the violin in just six months.",
+        "They camped in the forest for the weekend."
+      ]
+    },
+    {
+      "id": 9,
+      "sentences": [
+        "The butterflies fluttered around the flowers.",
+        "She tied her hair in a neat ponytail.",
+        "We watched the sunrise from the beach.",
+        "He delivered a powerful speech at the event.",
+        "They built a snowman in the backyard.",
+        "The lightning lit up the dark sky.",
+        "She recorded a song in a professional studio.",
+        "We visited an ancient castle in Scotland.",
+        "He practiced his lines for the school play.",
+        "They enjoyed a peaceful afternoon in the countryside."
+      ]
+    },
+    {
+      "id": 10,
+      "sentences": [
+        "The phone rang in the middle of the night.",
+        "She arranged the books neatly on the shelf.",
+        "We played board games during the storm.",
+        "He carved a pumpkin for Halloween.",
+        "They celebrated their anniversary with a fancy dinner.",
+        "The children laughed while playing in the sand.",
+        "She painted a sunset with vibrant colors.",
+        "We climbed a tree to get a better view.",
+        "He listened to his grandmother's bedtime stories.",
+        "They wrote their names in the wet cement."
+      ]
+    }
   ]
 }
