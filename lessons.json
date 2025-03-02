@@ -4,6 +4,7 @@
     {
       "title": "Lesson 1",
       "videoId": "fe04e5f9-91e8-42cc-9a70-4fb2e4a42bc7",
+      "iframe": "<iframe src='https://iframe.mediadelivery.net/embed/144861/e5341801-2146-4103-bd37-70192602b230?autoplay=true&loop=false&muted=false&preload=true&responsive=true' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "Welcome to the course!",
         "Let's get started.",
@@ -15,6 +16,7 @@
     {
       "title": "Lesson 2: Greetings and Introductions",
       "videoId": "3dd9a5d4-a8a1-4cf0-a7e1-8f8d46f7a438",
+      "iframe": "<iframe src='https://www.youtube.com/embed/xyz456' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "What is your name?",
         "How are you?",
@@ -26,6 +28,7 @@
     {
       "title": "Lesson 3: Everyday Conversations",
       "videoId": "b7254872-4185-4d2f-9a47-c78dfaf953b0",
+      "iframe": "<iframe src='https://www.youtube.com/embed/def789' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "Can you help me with this?",
         "I need to improve my pronunciation.",
@@ -37,6 +40,7 @@
     {
       "title": "Lesson 4: Grammar Essentials",
       "videoId": "21cd7827-7bb8-415c-a195-a0af5b58fe86",
+      "iframe": "<iframe src='https://www.youtube.com/embed/ghi101' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "Grammar is the foundation of language.",
         "Nouns, verbs, and adjectives are essential.",
@@ -48,6 +52,7 @@
     {
       "title": "Lesson 5: Talking About Hobbies",
       "videoId": "06785434-f368-48a3-9831-7bb699c6392f",
+      "iframe": "<iframe src='https://www.youtube.com/embed/jkl202' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "What are your hobbies?",
         "I enjoy reading books.",
@@ -59,6 +64,7 @@
     {
       "title": "Lesson 6: Shopping and Dining",
       "videoId": "01346c46-33e5-49ab-8fb0-4da5d049c661",
+      "iframe": "<iframe src='https://www.youtube.com/embed/mno303' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "How much does this cost?",
         "I would like to order a coffee.",
@@ -70,6 +76,7 @@
     {
       "title": "Lesson 7: Travel and Directions",
       "videoId": "b367e09e-ca10-40fb-91a9-79421005d77d",
+      "iframe": "<iframe src='https://www.youtube.com/embed/pqr404' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "Where is the nearest bus stop?",
         "How do I get to the airport?",
@@ -81,6 +88,7 @@
     {
       "title": "Lesson 8: Health and Wellness",
       "videoId": "bf10bb0c-4cf1-40a5-9e6a-8b3f057bbd07",
+      "iframe": "<iframe src='https://www.youtube.com/embed/stu505' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "I don't feel well.",
         "You should see a doctor.",
@@ -92,6 +100,7 @@
     {
       "title": "Lesson 9: Work and Careers",
       "videoId": "548bfa4a-41fa-43a3-8d18-b7aca878b1c2",
+      "iframe": "<iframe src='https://www.youtube.com/embed/vwx606' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "What do you do for work?",
         "I am a teacher.",
@@ -103,595 +112,13 @@
     {
       "title": "Lesson 10: Future Plans",
       "videoId": "b728c4f3-1594-484a-92d0-1c4caf2fa2c9",
+      "iframe": "<iframe src='https://www.youtube.com/embed/yza707' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
       "sentences": [
         "What are your plans for the weekend?",
         "I am going to visit my family.",
         "Do you want to travel abroad?",
         "I hope to learn a new language.",
         "Let's make a plan for next month."
-      ]
-    },
-    {
-      "title": "Lesson 11: Family and Relationships",
-      "videoId": "12570a93-e4aa-4254-83f5-95d249656df6",
-      "sentences": [
-        "How many people are in your family?",
-        "I have two brothers and one sister.",
-        "My parents are very supportive.",
-        "We spend a lot of time together.",
-        "Family is very important to me."
-      ]
-    },
-    {
-      "title": "Lesson 12: Weather and Seasons",
-      "videoId": "fb418946-9e17-4430-b348-0bc3dd967d55",
-      "sentences": [
-        "What's the weather like today?",
-        "It's sunny and warm.",
-        "I love the autumn season.",
-        "Winter can be very cold.",
-        "Let's go to the beach this summer."
-      ]
-    },
-    {
-      "title": "Lesson 13: Food and Cooking",
-      "videoId": "f2da6e97-2f55-4613-a23d-14e07718c4b3",
-      "sentences": [
-        "What's your favorite food?",
-        "I love Italian cuisine.",
-        "Can you cook?",
-        "Let's make a pizza together.",
-        "This recipe is very easy."
-      ]
-    },
-    {
-      "title": "Lesson 14: Technology and Gadgets",
-      "videoId": "216d2ced-1b40-4eed-8516-6661175ac152",
-      "sentences": [
-        "Do you have a smartphone?",
-        "I use my laptop for work.",
-        "Technology is advancing quickly.",
-        "This gadget is very useful.",
-        "How do you stay updated with technology?"
-      ]
-    },
-    {
-      "title": "Lesson 15: Sports and Fitness",
-      "videoId": "705eb06f-1756-4e06-8610-2aa1667bf039",
-      "sentences": [
-        "Do you play any sports?",
-        "I go to the gym every day.",
-        "Let's play soccer this weekend.",
-        "Fitness is important for health.",
-        "What's your favorite sport?"
-      ]
-    },
-    {
-      "title": "Lesson 16: Music and Entertainment",
-      "videoId": "27fc7b2f-07a9-4db1-9d28-15008c2c39da",
-      "sentences": [
-        "What kind of music do you like?",
-        "I enjoy listening to jazz.",
-        "Let's go to a concert.",
-        "This movie is very interesting.",
-        "Do you play any musical instruments?"
-      ]
-    },
-    {
-      "title": "Lesson 17: Travel Experiences",
-      "videoId": "2a586251-59c6-4ecd-86dd-bd9811ccb1ed",
-      "sentences": [
-        "Have you traveled abroad?",
-        "I visited Japan last year.",
-        "The culture was fascinating.",
-        "Let's plan a trip together.",
-        "What's your dream destination?"
-      ]
-    },
-    {
-      "title": "Lesson 18: Education and Learning",
-      "videoId": "113ee939-001d-4674-b51b-7acc07ee8639",
-      "sentences": [
-        "What did you study in school?",
-        "I am learning a new language.",
-        "Education is the key to success.",
-        "Let's read this book together.",
-        "Do you enjoy learning new things?"
-      ]
-    },
-    {
-      "title": "Lesson 19: Time Management",
-      "videoId": "912092e9-acd4-4f90-a897-24d9cfd6f922",
-      "sentences": [
-        "How do you manage your time?",
-        "I use a planner to stay organized.",
-        "Let's set some goals for this week.",
-        "Time is very precious.",
-        "Do you have a daily routine?"
-      ]
-    },
-    {
-      "title": "Lesson 20: Environmental Awareness",
-      "videoId": "e234a029-1861-46dc-af1d-5a36abec6b96",
-      "sentences": [
-        "How can we protect the environment?",
-        "Let's recycle more.",
-        "Climate change is a serious issue.",
-        "We should use renewable energy.",
-        "Do you care about the environment?"
-      ]
-    },
-    {
-      "title": "Lesson 21: Social Media and Communication",
-      "videoId": "e4c4fd81-c974-4515-8105-5ba167ef3b3b",
-      "sentences": [
-        "Do you use social media?",
-        "I post pictures on Instagram.",
-        "Let's connect on LinkedIn.",
-        "Social media can be addictive.",
-        "How do you stay in touch with friends?"
-      ]
-    },
-    {
-      "title": "Lesson 22: Art and Creativity",
-      "videoId": "7bfd8d5d-c2d5-41fa-a705-e76a994c60c4",
-      "sentences": [
-        "Do you enjoy painting?",
-        "I love visiting art galleries.",
-        "Let's create something together.",
-        "Art is a form of expression.",
-        "What's your favorite type of art?"
-      ]
-    },
-    {
-      "title": "Lesson 23: History and Culture",
-      "videoId": "65a2102f-0431-4187-ab87-d6d734e891a4",
-      "sentences": [
-        "What do you know about history?",
-        "I enjoy learning about different cultures.",
-        "Let's visit a museum.",
-        "History teaches us many lessons.",
-        "Do you have a favorite historical figure?"
-      ]
-    },
-    {
-      "title": "Lesson 24: Science and Innovation",
-      "videoId": "f3d1424c-8bd5-444e-be8b-7c78c94500fa",
-      "sentences": [
-        "Do you like science?",
-        "I am fascinated by space exploration.",
-        "Let's learn about new inventions.",
-        "Science is constantly evolving.",
-        "What's your favorite scientific discovery?"
-      ]
-    },
-    {
-      "title": "Lesson 25: Business and Entrepreneurship",
-      "videoId": "8fad4caf-1e2a-4e9f-bce5-0bcf3d82fc92",
-      "sentences": [
-        "Do you run a business?",
-        "I want to start my own company.",
-        "Let's discuss marketing strategies.",
-        "Entrepreneurship requires hard work.",
-        "What's your business idea?"
-      ]
-    },
-    {
-      "title": "Lesson 26: Health and Nutrition",
-      "videoId": "356c0ecf-d168-41f4-8c2a-7a4df4bc9937",
-      "sentences": [
-        "Do you eat healthy food?",
-        "I try to avoid junk food.",
-        "Let's cook a healthy meal.",
-        "Nutrition is important for health.",
-        "What's your favorite healthy snack?"
-      ]
-    },
-    {
-      "title": "Lesson 27: Travel Tips",
-      "videoId": "ea5e0b5d-0608-4881-b2da-a844611bdc02",
-      "sentences": [
-        "Do you have any travel tips?",
-        "Always pack light.",
-        "Let's learn some useful phrases.",
-        "Traveling broadens the mind.",
-        "What's your favorite travel destination?"
-      ]
-    },
-    {
-      "title": "Lesson 28: Technology Trends",
-      "videoId": "8cd3e900-f74c-43b1-bfa8-c8e88a63fece",
-      "sentences": [
-        "What's the latest technology trend?",
-        "I am interested in artificial intelligence.",
-        "Let's discuss the future of technology.",
-        "Technology is changing the world.",
-        "Do you use smart home devices?"
-      ]
-    },
-    {
-      "title": "Lesson 29: Personal Development",
-      "videoId": "7a468a21-5cd5-4441-9c01-48c0e1945e2e",
-      "sentences": [
-        "How do you improve yourself?",
-        "I read self-help books.",
-        "Let's set some personal goals.",
-        "Personal development is a lifelong journey.",
-        "What's your favorite self-improvement tip?"
-      ]
-    },
-    {
-      "title": "Lesson 30: Environmental Sustainability",
-      "videoId": "8ae1de36-610f-4e2f-9599-d12420f5e84f",
-      "sentences": [
-        "How can we live sustainably?",
-        "Let's reduce our carbon footprint.",
-        "I use reusable bags for shopping.",
-        "Sustainability is important for the planet.",
-        "Do you practice sustainable living?"
-      ]
-    },
-    {
-      "title": "Lesson 31: Social Etiquette",
-      "videoId": "aa6515c5-ecc6-45fa-b606-11e718eae3b2",
-      "sentences": [
-        "Do you know proper social etiquette?",
-        "Always be polite and respectful.",
-        "Let's learn about cultural differences.",
-        "Good manners are important in society.",
-        "What's your favorite etiquette tip?"
-      ]
-    },
-    {
-      "title": "Lesson 32: Creative Writing",
-      "videoId": "9b1e1909-8136-43cd-a319-ed14d3654909",
-      "sentences": [
-        "Do you enjoy writing?",
-        "I love writing short stories.",
-        "Let's write a poem together.",
-        "Creative writing is a great way to express yourself.",
-        "What's your favorite type of writing?"
-      ]
-    },
-    {
-      "title": "Lesson 33: Historical Events",
-      "videoId": "4c1b2d7c-eac3-43e9-9825-3ccea7d2e11e",
-      "sentences": [
-        "What's your favorite historical event?",
-        "I am fascinated by ancient civilizations.",
-        "Let's learn about World War II.",
-        "History helps us understand the present.",
-        "Do you enjoy studying history?"
-      ]
-    },
-    {
-      "title": "Lesson 34: Scientific Discoveries",
-      "videoId": "1c1850e4-6134-4e35-b8d2-03265c4ad8cd",
-      "sentences": [
-        "What's the most important scientific discovery?",
-        "I am interested in medical breakthroughs.",
-        "Let's discuss the theory of relativity.",
-        "Science has changed the way we live.",
-        "What's your favorite scientific fact?"
-      ]
-    },
-    {
-      "title": "Lesson 35: Business Strategies",
-      "videoId": "a768ba0b-b8d8-40ae-809f-95c0fad66f67",
-      "sentences": [
-        "What's your business strategy?",
-        "I focus on customer satisfaction.",
-        "Let's discuss digital marketing.",
-        "Business strategies are essential for success.",
-        "What's your favorite business book?"
-      ]
-    },
-    {
-      "title": "Lesson 36: Healthy Lifestyle",
-      "videoId": "ec01c7d3-2348-4b74-ad1d-e3974e935ecf",
-      "sentences": [
-        "How do you maintain a healthy lifestyle?",
-        "I exercise regularly and eat well.",
-        "Let's try a new workout routine.",
-        "A healthy lifestyle improves quality of life.",
-        "What's your favorite healthy habit?"
-      ]
-    },
-    {
-      "title": "Lesson 37: Travel Adventures",
-      "videoId": "7c1334ad-a278-44ba-89d5-eabd8d4760cf",
-      "sentences": [
-        "What's your most memorable travel adventure?",
-        "I went hiking in the mountains.",
-        "Let's plan a road trip.",
-        "Traveling is a great way to explore the world.",
-        "What's your dream travel destination?"
-      ]
-    },
-    {
-      "title": "Lesson 38: Technology Innovations",
-      "videoId": "05ea5b90-a539-4d51-8a5b-fe1585a5afd8",
-      "sentences": [
-        "What's the latest technology innovation?",
-        "I am excited about virtual reality.",
-        "Let's discuss the impact of technology.",
-        "Innovation drives progress.",
-        "What's your favorite tech gadget?"
-      ]
-    },
-    {
-      "title": "Lesson 39: Personal Growth",
-      "videoId": "e5341801-2146-4103-bd37-70192602b230",
-      "sentences": [
-        "How do you achieve personal growth?",
-        "I set goals and work towards them.",
-        "Let's learn a new skill together.",
-        "Personal growth is a continuous process.",
-        "What's your favorite self-improvement tip?"
-      ]
-    },
-    {
-      "title": "Lesson 40: Environmental Conservation",
-      "videoId": "6f19e51a-d78e-423d-a74d-61d0c35c0782",
-      "sentences": [
-        "How can we conserve the environment?",
-        "I support renewable energy projects.",
-        "Let's plant more trees.",
-        "Conservation is essential for future generations.",
-        "What's your favorite way to help the environment?"
-      ]
-    },
-    {
-      "title": "Lesson 41: Social Skills",
-      "videoId": "f2b55927-803a-49d4-8191-a503dfbfacb4",
-      "sentences": [
-        "How do you improve your social skills?",
-        "I practice active listening.",
-        "Let's attend a networking event.",
-        "Good social skills are important in life.",
-        "What's your favorite social skill?"
-      ]
-    },
-    {
-      "title": "Lesson 42: Creative Arts",
-      "videoId": "c308195c-59d5-4361-85fc-cd140c31b7f0",
-      "sentences": [
-        "Do you enjoy creative arts?",
-        "I love painting and drawing.",
-        "Let's visit an art exhibition.",
-        "Creative arts inspire imagination.",
-        "What's your favorite art form?"
-      ]
-    },
-    {
-      "title": "Lesson 43: Historical Figures",
-      "videoId": "92fd550f-75a7-4c06-92a9-a7112dc273f1",
-      "sentences": [
-        "Who is your favorite historical figure?",
-        "I admire Mahatma Gandhi.",
-        "Let's learn about influential leaders.",
-        "History is shaped by great individuals.",
-        "What's your favorite historical era?"
-      ]
-    },
-    {
-      "title": "Lesson 44: Scientific Research",
-      "videoId": "6c583bea-f7cb-4ded-8b48-6e2ab52c9f55",
-      "sentences": [
-        "What's the importance of scientific research?",
-        "I am interested in space exploration.",
-        "Let's discuss recent scientific breakthroughs.",
-        "Research drives innovation.",
-        "What's your favorite scientific field?"
-      ]
-    },
-    {
-      "title": "Lesson 45: Business Ethics",
-      "videoId": "668f8a24-e535-43c3-ac37-9cc1e87f35c7",
-      "sentences": [
-        "What are business ethics?",
-        "I believe in fair trade practices.",
-        "Let's discuss corporate responsibility.",
-        "Ethics are essential in business.",
-        "What's your favorite ethical principle?"
-      ]
-    },
-    {
-      "title": "Lesson 46: Healthy Eating",
-      "videoId": "c1e0c0cf-0f3b-4399-9d3f-12272fd077c2",
-      "sentences": [
-        "What's your favorite healthy food?",
-        "I enjoy eating fruits and vegetables.",
-        "Let's try a new healthy recipe.",
-        "Healthy eating improves well-being.",
-        "What's your favorite healthy snack?"
-      ]
-    },
-    {
-      "title": "Lesson 47: Travel Planning",
-      "videoId": "628782a4-7808-43a5-83bb-30f906264dd7",
-      "sentences": [
-        "How do you plan your travels?",
-        "I research destinations online.",
-        "Let's create a travel itinerary.",
-        "Planning makes trips more enjoyable.",
-        "What's your favorite travel tip?"
-      ]
-    },
-    {
-      "title": "Lesson 48: Technology and Society",
-      "videoId": "783e109c-7514-4748-b0cf-0b71e1ca4540",
-      "sentences": [
-        "How does technology impact society?",
-        "I think technology connects people.",
-        "Let's discuss the pros and cons of technology.",
-        "Technology shapes our daily lives.",
-        "What's your favorite tech innovation?"
-      ]
-    },
-    {
-      "title": "Lesson 49: Personal Finance",
-      "videoId": "60408446-fdd1-416d-927f-2d5ac090c81a",
-      "sentences": [
-        "How do you manage your finances?",
-        "I save a portion of my income.",
-        "Let's discuss budgeting strategies.",
-        "Financial planning is important for the future.",
-        "What's your favorite financial tip?"
-      ]
-    },
-    {
-      "title": "Lesson 50: Environmental Awareness",
-      "videoId": "98288c70-ecd2-4ae1-b84a-f94130a0789f",
-      "sentences": [
-        "How can we raise environmental awareness?",
-        "I participate in clean-up drives.",
-        "Let's educate others about sustainability.",
-        "Awareness leads to positive change.",
-        "What's your favorite environmental cause?"
-      ]
-    },
-    {
-      "title": "Lesson 51: Social Media Trends",
-      "videoId": "d2cbc0b1-88aa-404c-ba61-508306b8983b",
-      "sentences": [
-        "What's the latest social media trend?",
-        "I enjoy watching viral videos.",
-        "Let's discuss the impact of social media.",
-        "Trends come and go quickly.",
-        "What's your favorite social media platform?"
-      ]
-    },
-    {
-      "title": "Lesson 52: Creative Writing Tips",
-      "videoId": "50e12372-db00-4f7f-951c-1d20843599a1",
-      "sentences": [
-        "What's your favorite writing tip?",
-        "I write every day to improve.",
-        "Let's brainstorm story ideas.",
-        "Writing is a powerful form of expression.",
-        "What's your favorite type of writing?"
-      ]
-    },
-    {
-      "title": "Lesson 53: Historical Landmarks",
-      "videoId": "7b2454db-22e2-41c9-894c-b96f4c2d4125",
-      "sentences": [
-        "What's your favorite historical landmark?",
-        "I visited the Great Wall of China.",
-        "Let's learn about famous landmarks.",
-        "Landmarks tell stories of the past.",
-        "What's your dream landmark to visit?"
-      ]
-    },
-    {
-      "title": "Lesson 54: Scientific Experiments",
-      "videoId": "32bdc5c1-a990-4d80-a8d6-ce5ddfa1759b",
-      "sentences": [
-        "What's your favorite scientific experiment?",
-        "I enjoy chemistry experiments.",
-        "Let's conduct a simple experiment.",
-        "Experiments help us understand the world.",
-        "What's your favorite science topic?"
-      ]
-    },
-    {
-      "title": "Lesson 55: Business Leadership",
-      "videoId": "4718df1e-4971-457f-9a35-9fdf150d45e5",
-      "sentences": [
-        "What makes a good business leader?",
-        "I believe in leading by example.",
-        "Let's discuss leadership qualities.",
-        "Leadership inspires others to succeed.",
-        "What's your favorite leadership tip?"
-      ]
-    },
-    {
-      "title": "Lesson 56: Healthy Habits",
-      "videoId": "c5b9b572-9fc2-454a-8fef-61d393d90d6d",
-      "sentences": [
-        "What's your favorite healthy habit?",
-        "I drink plenty of water every day.",
-        "Let's adopt a new healthy habit.",
-        "Healthy habits improve quality of life.",
-        "What's your favorite wellness tip?"
-      ]
-    },
-    {
-      "title": "Lesson 57: Travel Experiences",
-      "videoId": "caff85f9-37ef-424e-9c34-040cba3dc174",
-      "sentences": [
-        "What's your most memorable travel experience?",
-        "I went on a safari in Africa.",
-        "Let's share travel stories.",
-        "Traveling creates lifelong memories.",
-        "What's your favorite travel memory?"
-      ]
-    },
-    {
-      "title": "Lesson 58: Technology and Education",
-      "videoId": "4ac2acce-c365-4297-ba2a-86611e30fa9e",
-      "sentences": [
-        "How does technology impact education?",
-        "I use online courses to learn.",
-        "Let's discuss e-learning platforms.",
-        "Technology makes education accessible.",
-        "What's your favorite educational app?"
-      ]
-    },
-    {
-      "title": "Lesson 59: Personal Reflection",
-      "videoId": "545f3877-663f-425b-bd5c-a1ab01a8097d",
-      "sentences": [
-        "How do you reflect on your life?",
-        "I keep a journal to track my progress.",
-        "Let's set some personal goals.",
-        "Reflection helps us grow.",
-        "What's your favorite self-reflection tip?"
-      ]
-    },
-    {
-      "title": "Lesson 60: Environmental Action",
-      "videoId": "130a643f-f7ef-431e-af5e-1145c7da8bbf",
-      "sentences": [
-        "How can we take action for the environment?",
-        "I support eco-friendly initiatives.",
-        "Let's organize a clean-up event.",
-        "Action leads to positive change.",
-        "What's your favorite environmental project?"
-      ]
-    },
-    {
-      "title": "Lesson 61: Social Media Impact",
-      "videoId": "your-video-id-for-lesson-61",
-      "sentences": [
-        "How does social media impact society?",
-        "I think it connects people globally.",
-        "Let's discuss the pros and cons of social media.",
-        "Social media influences our daily lives.",
-        "What's your favorite social media feature?"
-      ]
-    },
-    {
-      "title": "Lesson 62: Creative Inspiration",
-      "videoId": "your-video-id-for-lesson-62",
-      "sentences": [
-        "What inspires your creativity?",
-        "I find inspiration in nature.",
-        "Let's explore creative ideas together.",
-        "Inspiration can come from anywhere.",
-        "What's your favorite creative activity?"
-      ]
-    },
-    {
-      "title": "Lesson 63: Historical Lessons",
-      "videoId": "your-video-id-for-lesson-63",
-      "sentences": [
-        "What lessons can we learn from history?",
-        "I believe history teaches us resilience.",
-        "Let's discuss important historical events.",
-        "History helps us understand the present.",
-        "What's your favorite historical lesson?"
       ]
     }
   ]
