@@ -1,125 +1,114 @@
 {
-  "libraryId": "144861",
   "lessons": [
     {
-      "title": "Lesson 1",
-      "videoId": "e5341801-2146-4103-bd37-70192602b230",
-      "iframe": "<iframe src='https://iframe.mediadelivery.net/embed/144861/e5341801-2146-4103-bd37-70192602b230?autoplay=true&loop=false&muted=false&preload=true&responsive=true' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 1,
       "sentences": [
         "Welcome to the course!",
         "Let's get started.",
         "This is the first lesson.",
         "We will learn together.",
         "Practice makes perfect."
-      ]
+      ],
+      "quizId": "131"
     },
     {
-      "title": "Lesson 2: Greetings and Introductions",
-      "videoId": "3dd9a5d4-a8a1-4cf0-a7e1-8f8d46f7a438",
-      "iframe": "<iframe src='https://www.youtube.com/embed/xyz456' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 2,
       "sentences": [
         "What is your name?",
         "How are you?",
         "I am learning English.",
         "This is my book.",
         "I love my cat."
-      ]
+      ],
+      "quizId": "138"
     },
     {
-      "title": "Lesson 3: Everyday Conversations",
-      "videoId": "b7254872-4185-4d2f-9a47-c78dfaf953b0",
-      "iframe": "<iframe src='https://www.youtube.com/embed/def789' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 3,
       "sentences": [
         "Can you help me with this?",
         "I need to improve my pronunciation.",
         "Let's practice together.",
         "What do you do for a living?",
         "Where are you from?"
-      ]
+      ],
+      "quizId": "133"
     },
     {
-      "title": "Lesson 4: Grammar Essentials",
-      "videoId": "21cd7827-7bb8-415c-a195-a0af5b58fe86",
-      "iframe": "<iframe src='https://www.youtube.com/embed/ghi101' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 4,
       "sentences": [
         "Grammar is the foundation of language.",
         "Nouns, verbs, and adjectives are essential.",
         "Practice makes perfect.",
         "She is reading a book.",
         "They are playing football."
-      ]
+      ],
+      "quizId": "139"
     },
     {
-      "title": "Lesson 5: Talking About Hobbies",
-      "videoId": "06785434-f368-48a3-9831-7bb699c6392f",
-      "iframe": "<iframe src='https://www.youtube.com/embed/jkl202' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 5,
       "sentences": [
         "What are your hobbies?",
         "I enjoy reading books.",
         "Do you like playing sports?",
         "My favorite hobby is painting.",
         "How do you spend your free time?"
-      ]
+      ],
+      "quizId": "141"
     },
     {
-      "title": "Lesson 6: Shopping and Dining",
-      "videoId": "01346c46-33e5-49ab-8fb0-4da5d049c661",
-      "iframe": "<iframe src='https://www.youtube.com/embed/mno303' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 6,
       "sentences": [
         "How much does this cost?",
         "I would like to order a coffee.",
         "Do you have this in a different size?",
         "The food here is delicious.",
         "Can I have the bill, please?"
-      ]
+      ],
+      "quizId": "145"
     },
     {
-      "title": "Lesson 7: Travel and Directions",
-      "videoId": "b367e09e-ca10-40fb-91a9-79421005d77d",
-      "iframe": "<iframe src='https://www.youtube.com/embed/pqr404' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 7,
       "sentences": [
         "Where is the nearest bus stop?",
         "How do I get to the airport?",
         "I would like to book a hotel room.",
         "Is this seat taken?",
         "What time does the train leave?"
-      ]
+      ],
+      "quizId": "147"
     },
     {
-      "title": "Lesson 8: Health and Wellness",
-      "videoId": "bf10bb0c-4cf1-40a5-9e6a-8b3f057bbd07",
-      "iframe": "<iframe src='https://www.youtube.com/embed/stu505' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 8,
       "sentences": [
         "I don't feel well.",
         "You should see a doctor.",
         "How often do you exercise?",
         "I have a headache.",
         "Drink plenty of water."
-      ]
+      ],
+      "quizId": "149"
     },
     {
-      "title": "Lesson 9: Work and Careers",
-      "videoId": "548bfa4a-41fa-43a3-8d18-b7aca878b1c2",
-      "iframe": "<iframe src='https://www.youtube.com/embed/vwx606' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 9,
       "sentences": [
         "What do you do for work?",
         "I am a teacher.",
         "Do you enjoy your job?",
         "I have a meeting at 10 AM.",
         "Let's discuss this in the office."
-      ]
+      ],
+      "quizId": "153"
     },
     {
-      "title": "Lesson 10: Future Plans",
-      "videoId": "b728c4f3-1594-484a-92d0-1c4caf2fa2c9",
-      "iframe": "<iframe src='https://www.youtube.com/embed/yza707' width='560' height='315' frameborder='0' allowfullscreen></iframe>",
+      "lessonNumber": 10,
       "sentences": [
         "What are your plans for the weekend?",
         "I am going to visit my family.",
         "Do you want to travel abroad?",
         "I hope to learn a new language.",
         "Let's make a plan for next month."
-      ]
+      ],
+      "quizId": "158"
     }
   ]
 }
