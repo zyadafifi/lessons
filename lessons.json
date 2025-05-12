@@ -3,11 +3,11 @@
     {
       "lessonNumber": 1,
       "sentences": [
-        "Welcome to the course!",
-        "Let's get started.",
-        "This is the first lesson.",
-        "We will learn together.",
-        "Practice makes perfect."
+        "Hi, what's your name?",
+        "Where do you live?",
+        "What do you do?",
+        "I am from London.",
+        "I live in New York."
       ],
       "quizId": "131"
     },
