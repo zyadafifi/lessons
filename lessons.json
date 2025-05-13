@@ -3,660 +3,1556 @@
     {
       "lessonNumber": 1,
       "sentences": [
-        "Hi, what's your name?",
-        "Where do you live?",
-        "What do you do?",
-        "I am from London.",
-        "I live in New York."
+        {
+          "english": "Hi, what's your name?",
+          "arabic": "مرحباً، ما اسمك؟"
+        },
+        {
+          "english": "Where do you live?",
+          "arabic": "أين تعيش؟"
+        },
+        {
+          "english": "What do you do?",
+          "arabic": "ماذا تعمل؟"
+        },
+        {
+          "english": "I am from London.",
+          "arabic": "أنا من لندن."
+        },
+        {
+          "english": "I live in New York.",
+          "arabic": "أعيش في نيويورك."
+        }
       ],
       "quizId": "131"
     },
     {
       "lessonNumber": 2,
       "sentences": [
-        "This is the letter A.",
-        "The letter B is for boy.",
-        "Can you spell 'cat'?",
-        "I have a pen.",
-        "This is my book."
+        {
+          "english": "This is the letter A.",
+          "arabic": "هذا هو الحرف A."
+        },
+        {
+          "english": "The letter B is for boy.",
+          "arabic": "الحرف B هو للكلمة boy."
+        },
+        {
+          "english": "Can you spell 'cat'?",
+          "arabic": "هل تستطيع تهجئة كلمة 'cat'؟"
+        },
+        {
+          "english": "I have a pen.",
+          "arabic": "لدي قلم."
+        },
+        {
+          "english": "This is my book.",
+          "arabic": "هذا كتابي."
+        }
       ],
       "quizId": "138"
     },
     {
       "lessonNumber": 3,
       "sentences": [
-        "He is from France.",
-        "She is from China.",
-        "They are American.",
-        "I am from the UK.",
-        "Where are you from?"
+        {
+          "english": "He is from France.",
+          "arabic": "هو من فرنسا."
+        },
+        {
+          "english": "She is from China.",
+          "arabic": "هي من الصين."
+        },
+        {
+          "english": "They are American.",
+          "arabic": "هم أمريكيون."
+        },
+        {
+          "english": "I am from the UK.",
+          "arabic": "أنا من المملكة المتحدة."
+        },
+        {
+          "english": "Where are you from?",
+          "arabic": "من أين أنت؟"
+        }
       ],
       "quizId": "133"
     },
     {
       "lessonNumber": 4,
       "sentences": [
-        "What time is it?",
-        "It's five o'clock.",
-        "I get up at 7 a.m.",
-        "He goes to work at 9.",
-        "She has lunch at noon."
+        {
+          "english": "What time is it?",
+          "arabic": "كم الساعة؟"
+        },
+        {
+          "english": "It's five o'clock.",
+          "arabic": "الساعة الخامسة."
+        },
+        {
+          "english": "I get up at 7 a.m.",
+          "arabic": "أستيقظ في الساعة السابعة صباحاً."
+        },
+        {
+          "english": "He goes to work at 9.",
+          "arabic": "يذهب إلى العمل في الساعة التاسعة."
+        },
+        {
+          "english": "She has lunch at noon.",
+          "arabic": "تتناول الغداء في الظهيرة."
+        }
       ],
       "quizId": "139"
     },
     {
       "lessonNumber": 5,
       "sentences": [
-        "What's your name?",
-        "Where do you live?",
-        "I'm from Italy.",
-        "I am a student.",
-        "I work in an office."
+        {
+          "english": "What's your name?",
+          "arabic": "ما اسمك؟"
+        },
+        {
+          "english": "Where do you live?",
+          "arabic": "أين تعيش؟"
+        },
+        {
+          "english": "I'm from Italy.",
+          "arabic": "أنا من إيطاليا."
+        },
+        {
+          "english": "I am a student.",
+          "arabic": "أنا طالب."
+        },
+        {
+          "english": "I work in an office.",
+          "arabic": "أعمل في مكتب."
+        }
       ],
       "quizId": "141"
     },
     {
       "lessonNumber": 6,
       "sentences": [
-        "Today is Monday.",
-        "Today is Monday.",
-        "Tomorrow is Tuesday.",
-        "I go to work on Monday.",
-        "We visit family on weekends."
+        {
+          "english": "Today is Monday.",
+          "arabic": "اليوم هو الاثنين."
+        },
+        {
+          "english": "Tomorrow is Tuesday.",
+          "arabic": "غداً هو الثلاثاء."
+        },
+        {
+          "english": "I go to work on Monday.",
+          "arabic": "أذهب إلى العمل يوم الاثنين."
+        },
+        {
+          "english": "We visit family on weekends.",
+          "arabic": "نزور العائلة في عطلة نهاية الأسبوع."
+        }
       ],
       "quizId": "145"
     },
     {
       "lessonNumber": 7,
       "sentences": [
-        "I have a brother.",
-        "She has a mother.",
-        "He has a car.",
-        "I don't have a bike.",
-        "They have pets."
+        {
+          "english": "I have a brother.",
+          "arabic": "لدي أخ."
+        },
+        {
+          "english": "She has a mother.",
+          "arabic": "لديها أم."
+        },
+        {
+          "english": "He has a car.",
+          "arabic": "لديه سيارة."
+        },
+        {
+          "english": "I don't have a bike.",
+          "arabic": "ليس لدي دراجة."
+        },
+        {
+          "english": "They have pets.",
+          "arabic": "لديهم حيوانات أليفة."
+        }
       ],
       "quizId": "147"
     },
     {
       "lessonNumber": 8,
       "sentences": [
-        "I get up at 7 a.m.",
-        "I have breakfast in the morning.",
-        "I drive to work.",
-        "I go to bed at 10 p.m.",
-        "I study on weekends."
+        {
+          "english": "I get up at 7 a.m.",
+          "arabic": "أستيقظ في الساعة السابعة صباحاً."
+        },
+        {
+          "english": "I have breakfast in the morning.",
+          "arabic": "أتناول الفطور في الصباح."
+        },
+        {
+          "english": "I drive to work.",
+          "arabic": "أقود السيارة إلى العمل."
+        },
+        {
+          "english": "I go to bed at 10 p.m.",
+          "arabic": "أذهب إلى النوم في الساعة العاشرة مساءً."
+        },
+        {
+          "english": "I study on weekends.",
+          "arabic": "أدرس في عطلة نهاية الأسبوع."
+        }
       ],
       "quizId": "149"
     },
     {
       "lessonNumber": 9,
       "sentences": [
-        "He works in an office.",
-        "She likes her job.",
-        "I don't play football.",
-        "We go to the cinema on weekends.",
-        "Do you like your job?"
+        {
+          "english": "He works in an office.",
+          "arabic": "يعمل في مكتب."
+        },
+        {
+          "english": "She likes her job.",
+          "arabic": "تحب عملها."
+        },
+        {
+          "english": "I don't play football.",
+          "arabic": "لا ألعب كرة القدم."
+        },
+        {
+          "english": "We go to the cinema on weekends.",
+          "arabic": "نذهب إلى السينما في عطلة نهاية الأسبوع."
+        },
+        {
+          "english": "Do you like your job?",
+          "arabic": "هل تحب عملك؟"
+        }
       ],
       "quizId": "153"
     },
     {
       "lessonNumber": 10,
       "sentences": [
-        "Today is Monday.",
-        "Tomorrow is Tuesday.",
-        "I have lunch at 1 p.m.",
-        "She works in a shop.",
-        "They go to the restaurant on weekends."
+        {
+          "english": "Today is Monday.",
+          "arabic": "اليوم هو الاثنين."
+        },
+        {
+          "english": "Tomorrow is Tuesday.",
+          "arabic": "غداً هو الثلاثاء."
+        },
+        {
+          "english": "I have lunch at 1 p.m.",
+          "arabic": "أتناول الغداء في الساعة الواحدة ظهراً."
+        },
+        {
+          "english": "She works in a shop.",
+          "arabic": "تعمل في متجر."
+        },
+        {
+          "english": "They go to the restaurant on weekends.",
+          "arabic": "يذهبون إلى المطعم في عطلة نهاية الأسبوع."
+        }
       ],
       "quizId": "158"
     },
     {
       "lessonNumber": 11,
       "sentences": [
-        "I can play football.",
-        "Can you swim?",
-        "She can sing.",
-        "He can ride a bike.",
-        "I can't play the piano."
+        {
+          "english": "I can play football.",
+          "arabic": "أستطيع لعب كرة القدم."
+        },
+        {
+          "english": "Can you swim?",
+          "arabic": "هل تستطيع السباحة؟"
+        },
+        {
+          "english": "She can sing.",
+          "arabic": "تستطيع الغناء."
+        },
+        {
+          "english": "He can ride a bike.",
+          "arabic": "يستطيع ركوب الدراجة."
+        },
+        {
+          "english": "I can't play the piano.",
+          "arabic": "لا أستطيع العزف على البيانو."
+        }
       ],
       "quizId": "159"
     },
     {
       "lessonNumber": 12,
       "sentences": [
-        "There is a sofa in the living room.",
-        "There are six chairs.",
-        "Is there a TV?",
-        "There isn't a lamp.",
-        "There are two beds in the bedroom."
+        {
+          "english": "There is a sofa in the living room.",
+          "arabic": "هناك أريكة في غرفة المعيشة."
+        },
+        {
+          "english": "There are six chairs.",
+          "arabic": "هناك ستة كراسي."
+        },
+        {
+          "english": "Is there a TV?",
+          "arabic": "هل هناك تلفاز؟"
+        },
+        {
+          "english": "There isn't a lamp.",
+          "arabic": "لا يوجد مصباح."
+        },
+        {
+          "english": "There are two beds in the bedroom.",
+          "arabic": "هناك سريران في غرفة النوم."
+        }
       ],
       "quizId": "161"
     },
     {
       "lessonNumber": 13,
       "sentences": [
-        "The bank is next to the restaurant.",
-        "Go straight on.",
-        "Take the second street on the right.",
-        "The school is opposite the hospital.",
-        "Can you tell me where the cinema is?"
+        {
+          "english": "The bank is next to the restaurant.",
+          "arabic": "البنك بجانب المطعم."
+        },
+        {
+          "english": "Go straight on.",
+          "arabic": "اذهب مباشرة."
+        },
+        {
+          "english": "Take the second street on the right.",
+          "arabic": "خذ الشارع الثاني على اليمين."
+        },
+        {
+          "english": "The school is opposite the hospital.",
+          "arabic": "المدرسة مقابل المستشفى."
+        },
+        {
+          "english": "Can you tell me where the cinema is?",
+          "arabic": "هل يمكنك أن تخبرني أين السينما؟"
+        }
       ],
       "quizId": "167"
     },
     {
       "lessonNumber": 14,
       "sentences": [
-        "I like apples.",
-        "I don’t like fish.",
-        "Do you like cheese?",
-        "Would you like some juice?",
-        "I’m a vegetarian."
+        {
+          "english": "I like apples.",
+          "arabic": "أحب التفاح."
+        },
+        {
+          "english": "I don't like fish.",
+          "arabic": "لا أحب السمك."
+        },
+        {
+          "english": "Do you like cheese?",
+          "arabic": "هل تحب الجبن؟"
+        },
+        {
+          "english": "Would you like some juice?",
+          "arabic": "هل تريد بعض العصير؟"
+        },
+        {
+          "english": "I'm a vegetarian.",
+          "arabic": "أنا نباتي."
+        }
       ],
       "quizId": "167"
     },
     {
       "lessonNumber": 15,
       "sentences": [
-        "I can swim very well.",
-        "My brother can play the piano.",
-        "There is a big sofa in the living room.",
-        "My birthday is on the 5th of August.",
-        "The post office is next to the restaurant."
+        {
+          "english": "I can swim very well.",
+          "arabic": "أستطيع السباحة بشكل جيد جداً."
+        },
+        {
+          "english": "My brother can play the piano.",
+          "arabic": "أخي يستطيع العزف على البيانو."
+        },
+        {
+          "english": "There is a big sofa in the living room.",
+          "arabic": "هناك أريكة كبيرة في غرفة المعيشة."
+        },
+        {
+          "english": "My birthday is on the 5th of August.",
+          "arabic": "عيد ميلادي في الخامس من أغسطس."
+        },
+        {
+          "english": "The post office is next to the restaurant.",
+          "arabic": "مكتب البريد بجانب المطعم."
+        }
       ],
       "quizId": "167"
     },
     {
       "lessonNumber": 16,
       "sentences": [
-        "She's typing an email.",
-        "He's having lunch in the office.",
-        "They're watching television.",
-        "I'm learning English now.",
-        "We are listening to music."
+        {
+          "english": "She's typing an email.",
+          "arabic": "إنها تكتب بريداً إلكترونياً."
+        },
+        {
+          "english": "He's having lunch in the office.",
+          "arabic": "إنه يتناول الغداء في المكتب."
+        },
+        {
+          "english": "They're watching television.",
+          "arabic": "إنهم يشاهدون التلفاز."
+        },
+        {
+          "english": "I'm learning English now.",
+          "arabic": "أنا أتعلم اللغة الإنجليزية الآن."
+        },
+        {
+          "english": "We are listening to music.",
+          "arabic": "نحن نستمع إلى الموسيقى."
+        }
       ],
       "quizId": "168"
     },
     {
       "lessonNumber": 17,
       "sentences": [
-        "What's she doing? She's giving a presentation.",
-        "Where are they sitting? They're sitting on the sofa.",
-        "Who are you talking to?",
-        "They are playing computer games.",
-        "She's not having a meeting."
+        {
+          "english": "What's she doing? She's giving a presentation.",
+          "arabic": "ماذا تفعل؟ إنها تقدم عرضاً تقديمياً."
+        },
+        {
+          "english": "Where are they sitting? They're sitting on the sofa.",
+          "arabic": "أين يجلسون؟ إنهم يجلسون على الأريكة."
+        },
+        {
+          "english": "Who are you talking to?",
+          "arabic": "مع من تتحدث؟"
+        },
+        {
+          "english": "They are playing computer games.",
+          "arabic": "إنهم يلعبون ألعاب الكمبيوتر."
+        },
+        {
+          "english": "She's not having a meeting.",
+          "arabic": "إنها لا تعقد اجتماعاً."
+        }
       ],
       "quizId": "169"
     },
     {
       "lessonNumber": 18,
       "sentences": [
-        "What's the weather like? It's sunny.",
-        "It's snowing and very cold.",
-        "Let's go to the beach!",
-        "Why don't we watch a movie?",
-        "I'm on holiday and the weather is perfect."
+        {
+          "english": "What's the weather like? It's sunny.",
+          "arabic": "كيف الطقس؟ إنه مشمس."
+        },
+        {
+          "english": "It's snowing and very cold.",
+          "arabic": "إنه يثلج وبارد جداً."
+        },
+        {
+          "english": "Let's go to the beach!",
+          "arabic": "دعنا نذهب إلى الشاطئ!"
+        },
+        {
+          "english": "Why don't we watch a movie?",
+          "arabic": "لماذا لا نشاهد فيلماً؟"
+        },
+        {
+          "english": "I'm on holiday and the weather is perfect.",
+          "arabic": "أنا في إجازة والطقس مثالي."
+        }
       ],
       "quizId": "170"
     },
     {
       "lessonNumber": 19,
       "sentences": [
-        "I always drink coffee in the morning.",
-        "She usually goes to bed at 10 p.m.",
-        "It is raining right now.",
-        "He doesn't like watching TV.",
-        "They are playing football at the moment."
+        {
+          "english": "I always drink coffee in the morning.",
+          "arabic": "أشرب القهوة دائماً في الصباح."
+        },
+        {
+          "english": "She usually goes to bed at 10 p.m.",
+          "arabic": "تذهب عادة إلى النوم في الساعة العاشرة مساءً."
+        },
+        {
+          "english": "It is raining right now.",
+          "arabic": "إنه يمطر الآن."
+        },
+        {
+          "english": "He doesn't like watching TV.",
+          "arabic": "لا يحب مشاهدة التلفاز."
+        },
+        {
+          "english": "They are playing football at the moment.",
+          "arabic": "إنهم يلعبون كرة القدم في هذه اللحظة."
+        }
       ],
       "quizId": "171"
     },
     {
       "lessonNumber": 20,
       "sentences": [
-        "I live in a small city.",
-        "He works in a hospital.",
-        "The bank is next to the supermarket.",
-        "Do you go shopping on the weekend?",
-        "I like going to the cinema, but I don’t like concerts."
+        {
+          "english": "I live in a small city.",
+          "arabic": "أعيش في مدينة صغيرة."
+        },
+        {
+          "english": "He works in a hospital.",
+          "arabic": "يعمل في مستشفى."
+        },
+        {
+          "english": "The bank is next to the supermarket.",
+          "arabic": "البنك بجانب السوبرماركت."
+        },
+        {
+          "english": "Do you go shopping on the weekend?",
+          "arabic": "هل تذهب للتسوق في عطلة نهاية الأسبوع؟"
+        },
+        {
+          "english": "I like going to the cinema, but I don't like concerts.",
+          "arabic": "أحب الذهاب إلى السينما، لكنني لا أحب الحفلات الموسيقية."
+        }
       ],
       "quizId": "172"
     },
     {
       "lessonNumber": 21,
       "sentences": [
-        "I have a headache and I feel tired.",
-        "My back hurts and I can't sleep well.",
-        "You should take some medicine and rest.",
-        "You shouldn't eat too much sugar.",
-        "The doctor says I should drink more water."
+        {
+          "english": "I have a headache and I feel tired.",
+          "arabic": "لدي صداع وأشعر بالتعب."
+        },
+        {
+          "english": "My back hurts and I can't sleep well.",
+          "arabic": "ظهري يؤلمني ولا أستطيع النوم جيداً."
+        },
+        {
+          "english": "You should take some medicine and rest.",
+          "arabic": "يجب أن تأخذ بعض الدواء وتستريح."
+        },
+        {
+          "english": "You shouldn't eat too much sugar.",
+          "arabic": "لا يجب أن تأكل الكثير من السكر."
+        },
+        {
+          "english": "The doctor says I should drink more water.",
+          "arabic": "يقول الطبيب إنني يجب أن أشرب المزيد من الماء."
+        }
       ],
       "quizId": "173"
     },
     {
       "lessonNumber": 22,
       "sentences": [
-        "I lost my phone again.",
-        "She forgot her password.",
-        "He missed the train this morning.",
-        "Don’t spill your coffee!",
-        "I broke my computer yesterday."
+        {
+          "english": "I lost my phone again.",
+          "arabic": "فقدت هاتفي مرة أخرى."
+        },
+        {
+          "english": "She forgot her password.",
+          "arabic": "نسيت كلمة المرور الخاصة بها."
+        },
+        {
+          "english": "He missed the train this morning.",
+          "arabic": "فاتته القطار هذا الصباح."
+        },
+        {
+          "english": "Don't spill your coffee!",
+          "arabic": "لا تسكب قهوتك!"
+        },
+        {
+          "english": "I broke my computer yesterday.",
+          "arabic": "كسرت جهاز الكمبيوتر الخاص بي أمس."
+        }
       ],
       "quizId": "174"
     },
     {
       "lessonNumber": 23,
       "sentences": [
-        "I like reading before bed.",
-        "They watch movies on weekends.",
-        "She doesn’t like swimming.",
-        "We enjoy playing volleyball.",
-        "He sometimes visits art galleries."
+        {
+          "english": "I like reading before bed.",
+          "arabic": "أحب القراءة قبل النوم."
+        },
+        {
+          "english": "They watch movies on weekends.",
+          "arabic": "يشاهدون الأفلام في عطلة نهاية الأسبوع."
+        },
+        {
+          "english": "She doesn't like swimming.",
+          "arabic": "لا تحب السباحة."
+        },
+        {
+          "english": "We enjoy playing volleyball.",
+          "arabic": "نستمتع بلعب الكرة الطائرة."
+        },
+        {
+          "english": "He sometimes visits art galleries.",
+          "arabic": "يزور معارض الفن أحياناً."
+        }
       ],
       "quizId": "175"
     },
     {
       "lessonNumber": 24,
       "sentences": [
-        "My phone is in the bag.",
-        "Their dog is very friendly.",
-        "His house has a red door.",
-        "Its color is beautiful.",
-        "Our calendar is on the wall."
+        {
+          "english": "My phone is in the bag.",
+          "arabic": "هاتفي في الحقيبة."
+        },
+        {
+          "english": "Their dog is very friendly.",
+          "arabic": "كلبهم ودود جداً."
+        },
+        {
+          "english": "His house has a red door.",
+          "arabic": "منزله له باب أحمر."
+        },
+        {
+          "english": "Its color is beautiful.",
+          "arabic": "لونه جميل."
+        },
+        {
+          "english": "Our calendar is on the wall.",
+          "arabic": "تقويمنا على الحائط."
+        }
       ],
       "quizId": "176"
     },
     {
       "lessonNumber": 25,
       "sentences": [
-        "You should sleep early.",
-        "I forgot my keys at home.",
-        "They like chatting with friends.",
-        "She always uses her phone.",
-        "His job is very difficult."
+        {
+          "english": "You should sleep early.",
+          "arabic": "يجب أن تنام مبكراً."
+        },
+        {
+          "english": "I forgot my keys at home.",
+          "arabic": "نسيت مفاتيحي في المنزل."
+        },
+        {
+          "english": "They like chatting with friends.",
+          "arabic": "يحبون الدردشة مع الأصدقاء."
+        },
+        {
+          "english": "She always uses her phone.",
+          "arabic": "تستخدم هاتفها دائماً."
+        },
+        {
+          "english": "His job is very difficult.",
+          "arabic": "عمله صعب جداً."
+        }
       ],
       "quizId": "177"
     },
     {
       "lessonNumber": 26,
       "sentences": [
-        "I go to work by train.",
-        "He does his homework every day.",
-        "We don’t do the cleaning.",
-        "She travels by plane.",
-        "They do the washing up after dinner."
+        {
+          "english": "I go to work by train.",
+          "arabic": "أذهب إلى العمل بالقطار."
+        },
+        {
+          "english": "He does his homework every day.",
+          "arabic": "يقوم بواجباته المدرسية كل يوم."
+        },
+        {
+          "english": "We don't do the cleaning.",
+          "arabic": "نحن لا نقوم بالتنظيف."
+        },
+        {
+          "english": "She travels by plane.",
+          "arabic": "تسافر بالطائرة."
+        },
+        {
+          "english": "They do the washing up after dinner.",
+          "arabic": "يقومون بغسل الأطباق بعد العشاء."
+        }
       ],
       "quizId": "178"
     },
     {
       "lessonNumber": 27,
       "sentences": [
-        "I worked yesterday.",
-        "She watched a movie.",
-        "They stayed at home.",
-        "He cleaned the room.",
-        "We went to the park."
+        {
+          "english": "I worked yesterday.",
+          "arabic": "عملت أمس."
+        },
+        {
+          "english": "She watched a movie.",
+          "arabic": "شاهدت فيلماً."
+        },
+        {
+          "english": "They stayed at home.",
+          "arabic": "مكثوا في المنزل."
+        },
+        {
+          "english": "He cleaned the room.",
+          "arabic": "نظف الغرفة."
+        },
+        {
+          "english": "We went to the park.",
+          "arabic": "ذهبنا إلى الحديقة."
+        }
       ],
       "quizId": "179"
     },
     {
       "lessonNumber": 28,
       "sentences": [
-        "I didn’t go to school.",
-        "She didn’t eat breakfast.",
-        "Did you see the movie?",
-        "He didn’t buy a jacket.",
-        "Did they walk to work?"
+        {
+          "english": "I didn't go to school.",
+          "arabic": "لم أذهب إلى المدرسة."
+        },
+        {
+          "english": "She didn't eat breakfast.",
+          "arabic": "لم تتناول الفطور."
+        },
+        {
+          "english": "Did you see the movie?",
+          "arabic": "هل شاهدت الفيلم؟"
+        },
+        {
+          "english": "He didn't buy a jacket.",
+          "arabic": "لم يشترِ سترة."
+        },
+        {
+          "english": "Did they walk to work?",
+          "arabic": "هل مشوا إلى العمل؟"
+        }
       ],
       "quizId": "180"
     },
     {
       "lessonNumber": 29,
       "sentences": [
-        "I checked in at the hotel.",
-        "We took a taxi to the airport.",
-        "The plane took off at 10 a.m.",
-        "They rented a car.",
-        "I showed my passport."
+        {
+          "english": "I checked in at the hotel.",
+          "arabic": "سجلت الوصول في الفندق."
+        },
+        {
+          "english": "We took a taxi to the airport.",
+          "arabic": "أخذنا سيارة أجرة إلى المطار."
+        },
+        {
+          "english": "The plane took off at 10 a.m.",
+          "arabic": "أقلعت الطائرة في الساعة العاشرة صباحاً."
+        },
+        {
+          "english": "They rented a car.",
+          "arabic": "استأجروا سيارة."
+        },
+        {
+          "english": "I showed my passport.",
+          "arabic": "أريت جواز سفري."
+        }
       ],
       "quizId": "181"
     },
     {
       "lessonNumber": 30,
       "sentences": [
-        "I didn’t write an email.",
-        "Did you relax on Saturday?",
-        "We hired a convertible.",
-        "He asked for a sea view.",
-        "They arrived at the station."
+        {
+          "english": "I didn't write an email.",
+          "arabic": "لم أكتب بريداً إلكترونياً."
+        },
+        {
+          "english": "Did you relax on Saturday?",
+          "arabic": "هل استرخيت يوم السبت؟"
+        },
+        {
+          "english": "We hired a convertible.",
+          "arabic": "استأجرنا سيارة مكشوفة."
+        },
+        {
+          "english": "He asked for a sea view.",
+          "arabic": "طلب غرفة بإطلالة على البحر."
+        },
+        {
+          "english": "They arrived at the station.",
+          "arabic": "وصلوا إلى المحطة."
+        }
       ],
       "quizId": "182"
     },
     {
       "lessonNumber": 31,
       "sentences": [
-        "My favorite season is spring.",
-        "In spring, there are many flowers.",
-        "Christmas is in December.",
-        "People wear costumes on Halloween.",
-        "We watch fireworks on Bonfire Night."
+        {
+          "english": "My favorite season is spring.",
+          "arabic": "موسمي المفضل هو الربيع."
+        },
+        {
+          "english": "In spring, there are many flowers.",
+          "arabic": "في الربيع، هناك العديد من الزهور."
+        },
+        {
+          "english": "Christmas is in December.",
+          "arabic": "عيد الميلاد في ديسمبر."
+        },
+        {
+          "english": "People wear costumes on Halloween.",
+          "arabic": "يرتدي الناس أزياء في الهالوين."
+        },
+        {
+          "english": "We watch fireworks on Bonfire Night.",
+          "arabic": "نشاهد الألعاب النارية في ليلة بونفاير."
+        }
       ],
       "quizId": "183"
     },
     {
       "lessonNumber": 32,
       "sentences": [
-        "My birthday is on Monday.",
-        "I go to school at 8 o’clock.",
-        "I was born in 2000.",
-        "Are you free on Friday?",
-        "Let’s meet on Sunday afternoon."
+        {
+          "english": "My birthday is on Monday.",
+          "arabic": "عيد ميلادي يوم الاثنين."
+        },
+        {
+          "english": "I go to school at 8 o'clock.",
+          "arabic": "أذهب إلى المدرسة في الساعة الثامنة."
+        },
+        {
+          "english": "I was born in 2000.",
+          "arabic": "ولدت في عام 2000."
+        },
+        {
+          "english": "Are you free on Friday?",
+          "arabic": "هل أنت متفرغ يوم الجمعة؟"
+        },
+        {
+          "english": "Let's meet on Sunday afternoon.",
+          "arabic": "دعنا نلتقي بعد ظهر الأحد."
+        }
       ],
       "quizId": "184"
     },
     {
       "lessonNumber": 33,
       "sentences": [
-        "She is kind and helpful.",
-        "He is very funny.",
-        "They are sociable and friendly.",
-        "I’m a bit lazy.",
-        "He is a little unkind."
+        {
+          "english": "She is kind and helpful.",
+          "arabic": "إنها لطيفة ومفيدة."
+        },
+        {
+          "english": "He is very funny.",
+          "arabic": "إنه مضحك جداً."
+        },
+        {
+          "english": "They are sociable and friendly.",
+          "arabic": "إنهم اجتماعيون وودودون."
+        },
+        {
+          "english": "I'm a bit lazy.",
+          "arabic": "أنا كسول قليلاً."
+        },
+        {
+          "english": "He is a little unkind.",
+          "arabic": "إنه قاسٍ قليلاً."
+        }
       ],
       "quizId": "185"
     },
     {
       "lessonNumber": 34,
       "sentences": [
-        "I get up at 7 a.m.",
-        "Please turn on the TV.",
-        "Take off your coat.",
-        "Get off the bus at the next stop.",
-        "He turned down the invitation."
+        {
+          "english": "I get up at 7 a.m.",
+          "arabic": "أستيقظ في الساعة السابعة صباحاً."
+        },
+        {
+          "english": "Please turn on the TV.",
+          "arabic": "من فضلك شغل التلفاز."
+        },
+        {
+          "english": "Take off your coat.",
+          "arabic": "اخلع معطفك."
+        },
+        {
+          "english": "Get off the bus at the next stop.",
+          "arabic": "انزل من الحافلة في المحطة التالية."
+        },
+        {
+          "english": "He turned down the invitation.",
+          "arabic": "رفض الدعوة."
+        }
       ],
       "quizId": "186"
     },
     {
       "lessonNumber": 35,
       "sentences": [
-        "People send cards on Valentine’s Day.",
-        "We decorate a tree at Christmas.",
-        "I usually go to sleep at night.",
-        "She is generous and friendly.",
-        "Turn off your phone on the plane."
+        {
+          "english": "People send cards on Valentine's Day.",
+          "arabic": "يرسل الناس بطاقات في عيد الحب."
+        },
+        {
+          "english": "We decorate a tree at Christmas.",
+          "arabic": "نزين شجرة في عيد الميلاد."
+        },
+        {
+          "english": "I usually go to sleep at night.",
+          "arabic": "عادة ما أذهب للنوم في الليل."
+        },
+        {
+          "english": "She is generous and friendly.",
+          "arabic": "إنها كريمة وودودة."
+        },
+        {
+          "english": "Turn off your phone on the plane.",
+          "arabic": "أطفئ هاتفك في الطائرة."
+        }
       ],
       "quizId": "187"
     },
     {
       "lessonNumber": 36,
       "sentences": [
-        "I use scissors to cut paper.",
-        "Please give me a stamp.",
-        "The computer has a keyboard and a monitor.",
-        "I write a report at work.",
-        "She gave a presentation to the team."
+        {
+          "english": "I use scissors to cut paper.",
+          "arabic": "أستخدم المقص لقص الورق."
+        },
+        {
+          "english": "Please give me a stamp.",
+          "arabic": "من فضلك أعطني طابعاً."
+        },
+        {
+          "english": "The computer has a keyboard and a monitor.",
+          "arabic": "الكمبيوتر له لوحة مفاتيح وشاشة."
+        },
+        {
+          "english": "I write a report at work.",
+          "arabic": "أكتب تقريراً في العمل."
+        },
+        {
+          "english": "She gave a presentation to the team.",
+          "arabic": "قدمت عرضاً تقديمياً للفريق."
+        }
       ],
       "quizId": "188"
     },
     {
       "lessonNumber": 37,
       "sentences": [
-        "A lion is more dangerous than a cat.",
-        "A bee is smaller than a spider.",
-        "A whale is bigger than a dolphin.",
-        "A toucan is prettier than a seagull.",
-        "A bed is more comfortable than a chair."
+        {
+          "english": "A lion is more dangerous than a cat.",
+          "arabic": "الأسد أكثر خطورة من القط."
+        },
+        {
+          "english": "A bee is smaller than a spider.",
+          "arabic": "النحلة أصغر من العنكبوت."
+        },
+        {
+          "english": "A whale is bigger than a dolphin.",
+          "arabic": "الحوت أكبر من الدلفين."
+        },
+        {
+          "english": "A toucan is prettier than a seagull.",
+          "arabic": "طائر الطوقان أجمل من النورس."
+        },
+        {
+          "english": "A bed is more comfortable than a chair.",
+          "arabic": "السرير أكثر راحة من الكرسي."
+        }
       ],
       "quizId": "189"
     },
     {
       "lessonNumber": 38,
       "sentences": [
-        "Could I have the bill, please?",
-        "The food is delicious.",
-        "We have a reservation.",
-        "Would you like to see the dessert menu?",
-        "Let me take your coat."
+        {
+          "english": "Could I have the bill, please?",
+          "arabic": "هل يمكنني الحصول على الفاتورة، من فضلك؟"
+        },
+        {
+          "english": "The food is delicious.",
+          "arabic": "الطعام لذيذ."
+        },
+        {
+          "english": "We have a reservation.",
+          "arabic": "لدينا حجز."
+        },
+        {
+          "english": "Would you like to see the dessert menu?",
+          "arabic": "هل تريد أن ترى قائمة الحلويات؟"
+        },
+        {
+          "english": "Let me take your coat.",
+          "arabic": "دعني آخذ معطفك."
+        }
       ],
       "quizId": "190"
     },
     {
       "lessonNumber": 39,
       "sentences": [
-        "It is a city near the sea.",
-        "There are many facilities in the town.",
-        "The capital of France is Paris.",
-        "The river is long and famous.",
-        "There are no deserts in the country."
+        {
+          "english": "It is a city near the sea.",
+          "arabic": "إنها مدينة قريبة من البحر."
+        },
+        {
+          "english": "There are many facilities in the town.",
+          "arabic": "هناك العديد من المرافق في البلدة."
+        },
+        {
+          "english": "The capital of France is Paris.",
+          "arabic": "عاصمة فرنسا هي باريس."
+        },
+        {
+          "english": "The river is long and famous.",
+          "arabic": "النهر طويل ومشهور."
+        },
+        {
+          "english": "There are no deserts in the country.",
+          "arabic": "لا توجد صحاري في البلد."
+        }
       ],
       "quizId": "191"
     },
     {
       "lessonNumber": 40,
       "sentences": [
-        "The memory stick is next to the mouse.",
-        "She gave a presentation yesterday.",
-        "A rhino has a big horn.",
-        "A diamond is more expensive than a stone.",
-        "She moved to a quiet residential area."
+        {
+          "english": "The memory stick is next to the mouse.",
+          "arabic": "الذاكرة المحمولة بجانب الفأرة."
+        },
+        {
+          "english": "She gave a presentation yesterday.",
+          "arabic": "قدمت عرضاً تقديمياً أمس."
+        },
+        {
+          "english": "A rhino has a big horn.",
+          "arabic": "وحيد القرن له قرن كبير."
+        },
+        {
+          "english": "A diamond is more expensive than a stone.",
+          "arabic": "الماس أغلى من الحجر."
+        },
+        {
+          "english": "She moved to a quiet residential area.",
+          "arabic": "انتقلت إلى منطقة سكنية هادئة."
+        }
       ],
       "quizId": "192"
     },
     {
       "lessonNumber": 41,
       "sentences": [
-        "There is some rice in the kitchen.",
-        "A bottle of water is on the table. ",
-        "Coffee is uncountable.",
-        "A packet of pasta is in the bag.",
-        "There is no news today."
+        {
+          "english": "There is some rice in the kitchen.",
+          "arabic": "هناك بعض الأرز في المطبخ."
+        },
+        {
+          "english": "A bottle of water is on the table.",
+          "arabic": "زجاجة ماء على الطاولة."
+        },
+        {
+          "english": "Coffee is uncountable.",
+          "arabic": "القهوة اسم غير معدود."
+        },
+        {
+          "english": "A packet of pasta is in the bag.",
+          "arabic": "علبة معكرونة في الحقيبة."
+        },
+        {
+          "english": "There is no news today.",
+          "arabic": "لا توجد أخبار اليوم."
+        }
       ],
       "quizId": "193"
     },
     {
       "lessonNumber": 42,
       "sentences": [
-        "There are some eggs in the fridge.",
-        "There isn't much sugar in the jar.",
-        "Do you have any bread?",
-        "I don’t drink much coffee.",
-        "I have a lot of friends."
+        {
+          "english": "There are some eggs in the fridge.",
+          "arabic": "هناك بعض البيض في الثلاجة."
+        },
+        {
+          "english": "There isn't much sugar in the jar.",
+          "arabic": "لا يوجد الكثير من السكر في البرطمان."
+        },
+        {
+          "english": "Do you have any bread?",
+          "arabic": "هل لديك أي خبز؟"
+        },
+        {
+          "english": "I don't drink much coffee.",
+          "arabic": "لا أشرب الكثير من القهوة."
+        },
+        {
+          "english": "I have a lot of friends.",
+          "arabic": "لدي الكثير من الأصدقاء."
+        }
       ],
       "quizId": "194"
     },
     {
       "lessonNumber": 43,
       "sentences": [
-        "He does the hoovering every morning.",
-        "She makes the bed after waking up.",
-        "They are doing the dusting now.",
-        "The cleaner takes out the rubbish.",
-        "A pan is on the hob."
+        {
+          "english": "He does the hoovering every morning.",
+          "arabic": "يقوم بالكنس كل صباح."
+        },
+        {
+          "english": "She makes the bed after waking up.",
+          "arabic": "تقوم بترتيب السرير بعد الاستيقاظ."
+        },
+        {
+          "english": "They are doing the dusting now.",
+          "arabic": "إنهم يقومون بإزالة الغبار الآن."
+        },
+        {
+          "english": "The cleaner takes out the rubbish.",
+          "arabic": "المنظف يخرج القمامة."
+        },
+        {
+          "english": "A pan is on the hob.",
+          "arabic": "مقلاة على الموقد."
+        }
       ],
       "quizId": "195"
     },
     {
       "lessonNumber": 44,
       "sentences": [
-        "He drank a cup of coffee.",
-        "She wrote a short message.",
-        "They flew to Paris last week.",
-        "He forgot the keys at home.",
-        "She met a friend in the morning."
+        {
+          "english": "He drank a cup of coffee.",
+          "arabic": "شرب فنجاناً من القهوة."
+        },
+        {
+          "english": "She wrote a short message.",
+          "arabic": "كتبت رسالة قصيرة."
+        },
+        {
+          "english": "They flew to Paris last week.",
+          "arabic": "طاروا إلى باريس الأسبوع الماضي."
+        },
+        {
+          "english": "He forgot the keys at home.",
+          "arabic": "نسي المفاتيح في المنزل."
+        },
+        {
+          "english": "She met a friend in the morning.",
+          "arabic": "التقت بصديق في الصباح."
+        }
       ],
       "quizId": "196"
     },
     {
       "lessonNumber": 45,
       "sentences": [
-        "I saw the receipt on the shelf.",
-        "They put the food in the trolley.",
-        "She went to the supermarket.",
-        "The race began in the morning.",
-        "He took a shower before work."
+        {
+          "english": "I saw the receipt on the shelf.",
+          "arabic": "رأيت الإيصال على الرف."
+        },
+        {
+          "english": "They put the food in the trolley.",
+          "arabic": "وضعوا الطعام في العربة."
+        },
+        {
+          "english": "She went to the supermarket.",
+          "arabic": "ذهبت إلى السوبرماركت."
+        },
+        {
+          "english": "The race began in the morning.",
+          "arabic": "بدأ السباق في الصباح."
+        },
+        {
+          "english": "He took a shower before work.",
+          "arabic": "استحم قبل العمل."
+        }
       ],
       "quizId": "197"
     },
     {
       "lessonNumber": 46,
       "sentences": [
-        "I use my phone to make calls and take photos.",
-        "I think technology is good.",
-        "My computer has a virus.",
-        "A spoon is for eating soup.",
-        "A knife is for cutting."
+        {
+          "english": "I use my phone to make calls and take photos.",
+          "arabic": "أستخدم هاتفي لإجراء المكالمات والتقاط الصور."
+        },
+        {
+          "english": "I think technology is good.",
+          "arabic": "أعتقد أن التكنولوجيا جيدة."
+        },
+        {
+          "english": "My computer has a virus.",
+          "arabic": "جهاز الكمبيوتر لدي به فيروس."
+        },
+        {
+          "english": "A spoon is for eating soup.",
+          "arabic": "الملعقة للأكل الحساء."
+        },
+        {
+          "english": "A knife is for cutting.",
+          "arabic": "السكين للقطع."
+        }
       ],
       "quizId": "198"
     },
     {
       "lessonNumber": 47,
       "sentences": [
-        "“Movie” is American. “Film” is British.",
-        "The film is set in my country.",
-        "Subtitles help us understand.",
-        "I like reading detective stories.",
-        "Horror is a type of film."
+        {
+          "english": "Movie is American. Film is British.",
+          "arabic": "كلمة Movie أمريكية. كلمة Film بريطانية."
+        },
+        {
+          "english": "The film is set in my country.",
+          "arabic": "الفيلم تدور أحداثه في بلدي."
+        },
+        {
+          "english": "Subtitles help us understand.",
+          "arabic": "الترجمات تساعدنا على الفهم."
+        },
+        {
+          "english": "I like reading detective stories.",
+          "arabic": "أحب قراءة قصص المباحث."
+        },
+        {
+          "english": "Horror is a type of film.",
+          "arabic": "الرعب هو نوع من الأفلام."
+        }
       ],
       "quizId": "199"
     },
     {
       "lessonNumber": 48,
       "sentences": [
-        "She was watching TV.",
-        "He was skiing.",
-        "They were chatting.",
-        "I was eating dinner.",
-        "I was sleeping."
+        {
+          "english": "She was watching TV.",
+          "arabic": "كانت تشاهد التلفاز."
+        },
+        {
+          "english": "He was skiing.",
+          "arabic": "كان يتزلج."
+        },
+        {
+          "english": "They were chatting.",
+          "arabic": "كانوا يتحدثون."
+        },
+        {
+          "english": "I was eating dinner.",
+          "arabic": "كنت أتناول العشاء."
+        },
+        {
+          "english": "I was sleeping.",
+          "arabic": "كنت نائماً."
+        }
       ],
       "quizId": "200"
     },
     {
       "lessonNumber": 49,
       "sentences": [
-        "I am tired because I didn’t sleep.",
-        "I want coffee or tea.",
-        "I study English, and I enjoy it.",
-        "He is working, but he is tired.",
-        "She is happy because she passed the exam."
+        {
+          "english": "I am tired because I didn't sleep.",
+          "arabic": "أنا متعب لأنني لم أنم."
+        },
+        {
+          "english": "I want coffee or tea.",
+          "arabic": "أريد قهوة أو شاي."
+        },
+        {
+          "english": "I study English, and I enjoy it.",
+          "arabic": "أدرس اللغة الإنجليزية، وأستمتع بذلك."
+        },
+        {
+          "english": "He is working, but he is tired.",
+          "arabic": "إنه يعمل، لكنه متعب."
+        },
+        {
+          "english": "She is happy because she passed the exam.",
+          "arabic": "إنها سعيدة لأنها نجحت في الامتحان."
+        }
       ],
       "quizId": "201"
     },
     {
       "lessonNumber": 50,
       "sentences": [
-        "My brother plays games and listens to music.",
-        "A clock is for telling the time.",
-        "Popcorn is a snack at the cinema.",
-        "This film is exciting.",
-        "He was working, but he spilled coffee."
+        {
+          "english": "My brother plays games and listens to music.",
+          "arabic": "أخي يلعب الألعاب ويستمع إلى الموسيقى."
+        },
+        {
+          "english": "A clock is for telling the time.",
+          "arabic": "الساعة لمعرفة الوقت."
+        },
+        {
+          "english": "Popcorn is a snack at the cinema.",
+          "arabic": "الفشار وجبة خفيفة في السينما."
+        },
+        {
+          "english": "This film is exciting.",
+          "arabic": "هذا الفيلم مثير."
+        },
+        {
+          "english": "He was working, but he spilled coffee.",
+          "arabic": "كان يعمل، لكنه سكب القهوة."
+        }
       ],
       "quizId": "202"
     },
     {
       "lessonNumber": 51,
       "sentences": [
-        "I'm wearing a white t-shirt.",
-        "Yesterday, I wore a tie.",
-        "You should take off your shoes when you enter someone's home.",
-        "She's wearing a black dress and black shoes.",
-        "A black leather jacket."
+        {
+          "english": "I'm wearing a white t-shirt.",
+          "arabic": "أرتدي قميصاً أبيض."
+        },
+        {
+          "english": "Yesterday, I wore a tie.",
+          "arabic": "بالأمس، ارتديت ربطة عنق."
+        },
+        {
+          "english": "You should take off your shoes when you enter someone's home.",
+          "arabic": "يجب أن تخلع حذاءك عند دخول منزل شخص ما."
+        },
+        {
+          "english": "She's wearing a black dress and black shoes.",
+          "arabic": "ترتدي فستاناً أسود وأحذية سوداء."
+        },
+        {
+          "english": "A black leather jacket.",
+          "arabic": "سترة جلدية سوداء."
+        }
       ],
       "quizId": "203"
     },
     {
       "lessonNumber": 52,
       "sentences": [
-        "I'm going to America on holiday in June.",
-        "She's going to meet her friend after work.",
-        "We are going to try a new restaurant tonight.",
-        "I'm not going to arrive before 4 p.m.",
-        "Are you going to see Felipe next week?"
+        {
+          "english": "I'm going to America on holiday in June.",
+          "arabic": "سأذهب إلى أمريكا في إجازة في يونيو."
+        },
+        {
+          "english": "She's going to meet her friend after work.",
+          "arabic": "ستلتقي بصديقتها بعد العمل."
+        },
+        {
+          "english": "We are going to try a new restaurant tonight.",
+          "arabic": "سنحاول مطعماً جديداً الليلة."
+        },
+        {
+          "english": "I'm not going to arrive before 4 p.m.",
+          "arabic": "لن أصل قبل الساعة الرابعة مساءً."
+        },
+        {
+          "english": "Are you going to see Felipe next week?",
+          "arabic": "هل ستلتقي بفيليبي الأسبوع القادم؟"
+        }
       ],
       "quizId": "204"
     },
     {
       "lessonNumber": 53,
       "sentences": [
-        "It's hot in here. I'll open the window.",
-        "I'll call him back now.",
-        "I'll help you find your keys.",
-        "I forgot to buy a present. I'll get one now.",
-        "My computer has stopped. I'll call the helpline."
+        {
+          "english": "It's hot in here. I'll open the window.",
+          "arabic": "الجو حار هنا. سأفتح النافذة."
+        },
+        {
+          "english": "I'll call him back now.",
+          "arabic": "سأتصل به الآن."
+        },
+        {
+          "english": "I'll help you find your keys.",
+          "arabic": "سأساعدك في العثور على مفاتيحك."
+        },
+        {
+          "english": "I forgot to buy a present. I'll get one now.",
+          "arabic": "نسيت شراء هدية. سأشتري واحدة الآن."
+        },
+        {
+          "english": "My computer has stopped. I'll call the helpline.",
+          "arabic": "توقف جهاز الكمبيوتر. سأتصل بخط المساعدة."
+        }
       ],
       "quizId": "205"
     },
     {
       "lessonNumber": 54,
       "sentences": [
-        "I use social media to post photos.",
-        "I use social media to chat with my friends.",
-        "A follower is somebody who admires you.",
-        "A meme is an image with a word that is often funny.",
-        "I follow a person on Instagram who posts amazing images."
+        {
+          "english": "I use social media to post photos.",
+          "arabic": "أستخدم وسائل التواصل الاجتماعي لنشر الصور."
+        },
+        {
+          "english": "I use social media to chat with my friends.",
+          "arabic": "أستخدم وسائل التواصل الاجتماعي للدردشة مع أصدقائي."
+        },
+        {
+          "english": "A follower is somebody who admires you.",
+          "arabic": "المتابع هو شخص معجب بك."
+        },
+        {
+          "english": "A meme is an image with a word that is often funny.",
+          "arabic": "الميم هو صورة مع كلمة غالباً ما تكون مضحكة."
+        },
+        {
+          "english": "I follow a person on Instagram who posts amazing images.",
+          "arabic": "أتتبع شخصاً على إنستغرام ينشر صوراً مذهلة."
+        }
       ],
       "quizId": "206"
     },
     {
       "lessonNumber": 55,
       "sentences": [
-        "He's wearing a yellow t-shirt and purple trainers.",
-        "She's going to visit her grandmother in the hospital.",
-        "I'll stay inside.",
-        "I'm going to work on my presentation.",
-        "A blog is a diary published on the internet."
+        {
+          "english": "He's wearing a yellow t-shirt and purple trainers.",
+          "arabic": "يرتدي قميصاً أصفر وأحذية رياضية أرجوانية."
+        },
+        {
+          "english": "She's going to visit her grandmother in the hospital.",
+          "arabic": "ستزور جدتها في المستشفى."
+        },
+        {
+          "english": "I'll stay inside.",
+          "arabic": "سأبقى في الداخل."
+        },
+        {
+          "english": "I'm going to work on my presentation.",
+          "arabic": "سأعمل على عرضي التقديمي."
+        },
+        {
+          "english": "A blog is a diary published on the internet.",
+          "arabic": "المدونة هي يوميات منشورة على الإنترنت."
+        }
       ],
       "quizId": "207"
     },
     {
       "lessonNumber": 56,
       "sentences": [
-        "I might go to the cinema or I may stay at home.",
-        "I won’t be free until 4pm.",
-        "He might be able to help us.",
-        "It may not be okay.",
-        "I might eat Indian food for dinner."
+        {
+          "english": "I might go to the cinema or I may stay at home.",
+          "arabic": "قد أذهب إلى السينما أو قد أبقى في المنزل."
+        },
+        {
+          "english": "I won't be free until 4pm.",
+          "arabic": "لن أكون متفرغاً حتى الساعة الرابعة مساءً."
+        },
+        {
+          "english": "He might be able to help us.",
+          "arabic": "قد يكون قادراً على مساعدتنا."
+        },
+        {
+          "english": "It may not be okay.",
+          "arabic": "قد لا يكون الأمر على ما يرام."
+        },
+        {
+          "english": "I might eat Indian food for dinner.",
+          "arabic": "قد أتناول طعاماً هندياً للعشاء."
+        }
       ],
       "quizId": "208"
     },
     {
       "lessonNumber": 57,
       "sentences": [
-        "I need to make a phone call to my mother.",
-        "She made an appointment last week.",
-        "He makes money delivering parcels.",
-        "I did the cleaning yesterday.",
-        "I will do the washing."
+        {
+          "english": "I need to make a phone call to my mother.",
+          "arabic": "أحتاج إلى الاتصال بأمي."
+        },
+        {
+          "english": "She made an appointment last week.",
+          "arabic": "حددت موعداً الأسبوع الماضي."
+        },
+        {
+          "english": "He makes money delivering parcels.",
+          "arabic": "يكسب المال بتوصيل الطرود."
+        },
+        {
+          "english": "I did the cleaning yesterday.",
+          "arabic": "قمت بالتنظيف أمس."
+        },
+        {
+          "english": "I will do the washing.",
+          "arabic": "سأقوم بالغسيل."
+        }
       ],
       "quizId": "209"
     },
     {
       "lessonNumber": 58,
       "sentences": [
-        "I went to buy a car by bike.",
-        "I felt weak by the end of the week.",
-        "Please write the right answer on your exam paper.",
-        "I can’t see out of my left eye.",
-        "I ate pizza for dinner last night."
+        {
+          "english": "I went to buy a car by bike.",
+          "arabic": "ذهبت لشراء سيارة بالدراجة."
+        },
+        {
+          "english": "I felt weak by the end of the week.",
+          "arabic": "شعرت بالضعف بنهاية الأسبوع."
+        },
+        {
+          "english": "Please write the right answer on your exam paper.",
+          "arabic": "من فضلك اكتب الإجابة الصحيحة على ورقة امتحانك."
+        },
+        {
+          "english": "I can't see out of my left eye.",
+          "arabic": "لا أستطيع الرؤية بعيني اليسرى."
+        },
+        {
+          "english": "I ate pizza for dinner last night.",
+          "arabic": "تناولت البيتزا للعشاء الليلة الماضية."
+        }
       ],
       "quizId": "210"
     },
     {
       "lessonNumber": 59,
       "sentences": [
-        "I recycle rubbish.",
-        "People will drive electric cars.",
-        "I hope she will get the job.",
-        "They hope the plane will arrive on time.",
-        "She hopes she will pass the exam."
+        {
+          "english": "I recycle rubbish.",
+          "arabic": "أقوم بإعادة تدوير النفايات."
+        },
+        {
+          "english": "People will drive electric cars.",
+          "arabic": "سيقود الناس السيارات الكهربائية."
+        },
+        {
+          "english": "I hope she will get the job.",
+          "arabic": "آمل أن تحصل على الوظيفة."
+        },
+        {
+          "english": "They hope the plane will arrive on time.",
+          "arabic": "يأملون أن تصل الطائرة في الوقت المحدد."
+        },
+        {
+          "english": "She hopes she will pass the exam.",
+          "arabic": "تأمل أن تجتاز الامتحان."
+        }
       ],
       "quizId": "211"
     },
     {
       "lessonNumber": 60,
       "sentences": [
-        "It might rain tomorrow.",
-        "I might have fish and chips.",
-        "I need to make a decision.",
-        "I recycle rubbish.",
-        "She hopes she will remember her password."
+        {
+          "english": "It might rain tomorrow.",
+          "arabic": "قد تمطر غداً."
+        },
+        {
+          "english": "I might have fish and chips.",
+          "arabic": "قد أتناول السمك والبطاطا."
+        },
+        {
+          "english": "I need to make a decision.",
+          "arabic": "أحتاج إلى اتخاذ قرار."
+        },
+        {
+          "english": "I recycle rubbish.",
+          "arabic": "أقوم بإعادة تدوير النفايات."
+        },
+        {
+          "english": "She hopes she will remember her password.",
+          "arabic": "تأمل أن تتذكر كلمة المرور الخاصة بها."
+        }
       ],
       "quizId": "212"
     }
