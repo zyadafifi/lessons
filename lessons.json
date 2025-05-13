@@ -5,23 +5,23 @@
       "sentences": [
         {
           "english": "Hi, what's your name?",
-          "arabic": "مرحباً، ما اسمك؟"
+          "arabic": "\u202Eمرحباً، ما اسمك؟"
         },
         {
           "english": "Where do you live?",
-          "arabic": "أين تعيش؟"
+          "arabic": "\u202Eأين تعيش؟"
         },
         {
           "english": "What do you do?",
-          "arabic": "ماذا تعمل؟"
+          "arabic": "\u202Eماذا تعمل؟"
         },
         {
           "english": "I am from London.",
-          "arabic": "أنا من لندن."
+          "arabic": "\u202Eأنا من لندن"
         },
         {
           "english": "I live in New York.",
-          "arabic": "أعيش في نيويورك."
+          "arabic": "\u202Eأعيش في نيويورك"
         }
       ],
       "quizId": "131"
@@ -31,23 +31,23 @@
       "sentences": [
         {
           "english": "This is the letter A.",
-          "arabic": "هذا هو الحرف A."
+          "arabic": "\u202Eهذا هو الحرف A"
         },
         {
           "english": "The letter B is for boy.",
-          "arabic": "الحرف B هو للكلمة boy."
+          "arabic": "\u202Eالحرف B هو للكلمة boy"
         },
         {
           "english": "Can you spell 'cat'?",
-          "arabic": "هل تستطيع تهجئة كلمة 'cat'؟"
+          "arabic": "\u202Eهل تستطيع تهجئة كلمة cat؟"
         },
         {
           "english": "I have a pen.",
-          "arabic": "لدي قلم."
+          "arabic": "\u202Eلدي قلم."
         },
         {
           "english": "This is my book.",
-          "arabic": "هذا كتابي."
+          "arabic": "\u202Eهذا كتابي."
         }
       ],
       "quizId": "138"
@@ -57,23 +57,23 @@
       "sentences": [
         {
           "english": "He is from France.",
-          "arabic": "هو من فرنسا."
+          "arabic": "\u202Eهو من فرنسا."
         },
         {
           "english": "She is from China.",
-          "arabic": "هي من الصين."
+          "arabic": "\u202Eهي من الصين."
         },
         {
           "english": "They are American.",
-          "arabic": "هم أمريكيون."
+          "arabic": "\u202Eهم أمريكيون."
         },
         {
           "english": "I am from the UK.",
-          "arabic": "أنا من المملكة المتحدة."
+          "arabic": "\u202Eأنا من المملكة المتحدة."
         },
         {
           "english": "Where are you from?",
-          "arabic": "من أين أنت؟"
+          "arabic": "\u202Eمن أين أنت؟"
         }
       ],
       "quizId": "133"
@@ -83,23 +83,23 @@
       "sentences": [
         {
           "english": "What time is it?",
-          "arabic": "كم الساعة؟"
+          "arabic": "\u202Eكم الساعة؟"
         },
         {
           "english": "It's five o'clock.",
-          "arabic": "الساعة الخامسة."
+          "arabic": "\u202Eالساعة الخامسة."
         },
         {
           "english": "I get up at 7 a.m.",
-          "arabic": "أستيقظ في الساعة السابعة صباحاً."
+          "arabic": "\u202Eأستيقظ في الساعة السابعة صباحاً."
         },
         {
           "english": "He goes to work at 9.",
-          "arabic": "يذهب إلى العمل في الساعة التاسعة."
+          "arabic": "\u202Eيذهب إلى العمل في الساعة التاسعة."
         },
         {
           "english": "She has lunch at noon.",
-          "arabic": "تتناول الغداء في الظهيرة."
+          "arabic": "\u202Eتتناول الغداء في الظهيرة."
         }
       ],
       "quizId": "139"
@@ -109,23 +109,23 @@
       "sentences": [
         {
           "english": "What's your name?",
-          "arabic": "ما اسمك؟"
+          "arabic": "\u202Eما اسمك؟"
         },
         {
           "english": "Where do you live?",
-          "arabic": "أين تعيش؟"
+          "arabic": "\u202Eأين تعيش؟"
         },
         {
           "english": "I'm from Italy.",
-          "arabic": "أنا من إيطاليا."
+          "arabic": "\u202Eأنا من إيطاليا."
         },
         {
           "english": "I am a student.",
-          "arabic": "أنا طالب."
+          "arabic": "\u202Eأنا طالب."
         },
         {
           "english": "I work in an office.",
-          "arabic": "أعمل في مكتب."
+          "arabic": "\u202Eأعمل في مكتب."
         }
       ],
       "quizId": "141"
@@ -135,19 +135,19 @@
       "sentences": [
         {
           "english": "Today is Monday.",
-          "arabic": "اليوم هو الاثنين."
+          "arabic": "\u202Eاليوم هو الاثنين."
         },
         {
           "english": "Tomorrow is Tuesday.",
-          "arabic": "غداً هو الثلاثاء."
+          "arabic": "\u202Eغداً هو الثلاثاء."
         },
         {
           "english": "I go to work on Monday.",
-          "arabic": "أذهب إلى العمل يوم الاثنين."
+          "arabic": "\u202Eأذهب إلى العمل يوم الاثنين."
         },
         {
           "english": "We visit family on weekends.",
-          "arabic": "نزور العائلة في عطلة نهاية الأسبوع."
+          "arabic": "\u202Eنزور العائلة في عطلة نهاية الأسبوع."
         }
       ],
       "quizId": "145"
@@ -157,23 +157,23 @@
       "sentences": [
         {
           "english": "I have a brother.",
-          "arabic": "لدي أخ."
+          "arabic": "\u202Eلدي أخ."
         },
         {
           "english": "She has a mother.",
-          "arabic": "لديها أم."
+          "arabic": "\u202Eلديها أم."
         },
         {
           "english": "He has a car.",
-          "arabic": "لديه سيارة."
+          "arabic": "\u202Eلديه سيارة."
         },
         {
           "english": "I don't have a bike.",
-          "arabic": "ليس لدي دراجة."
+          "arabic": "\u202Eليس لدي دراجة."
         },
         {
           "english": "They have pets.",
-          "arabic": "لديهم حيوانات أليفة."
+          "arabic": "\u202Eلديهم حيوانات أليفة."
         }
       ],
       "quizId": "147"
@@ -183,23 +183,23 @@
       "sentences": [
         {
           "english": "I get up at 7 a.m.",
-          "arabic": "أستيقظ في الساعة السابعة صباحاً."
+          "arabic": "\u202Eأستيقظ في الساعة السابعة صباحاً."
         },
         {
           "english": "I have breakfast in the morning.",
-          "arabic": "أتناول الفطور في الصباح."
+          "arabic": "\u202Eأتناول الفطور في الصباح."
         },
         {
           "english": "I drive to work.",
-          "arabic": "أقود السيارة إلى العمل."
+          "arabic": "\u202Eأقود السيارة إلى العمل."
         },
         {
           "english": "I go to bed at 10 p.m.",
-          "arabic": "أذهب إلى النوم في الساعة العاشرة مساءً."
+          "arabic": "\u202Eأذهب إلى النوم في الساعة العاشرة مساءً."
         },
         {
           "english": "I study on weekends.",
-          "arabic": "أدرس في عطلة نهاية الأسبوع."
+          "arabic": "\u202Eأدرس في عطلة نهاية الأسبوع."
         }
       ],
       "quizId": "149"
@@ -209,23 +209,23 @@
       "sentences": [
         {
           "english": "He works in an office.",
-          "arabic": "يعمل في مكتب."
+          "arabic": "\u202Eيعمل في مكتب."
         },
         {
           "english": "She likes her job.",
-          "arabic": "تحب عملها."
+          "arabic": "\u202Eتحب عملها."
         },
         {
           "english": "I don't play football.",
-          "arabic": "لا ألعب كرة القدم."
+          "arabic": "\u202Eلا ألعب كرة القدم."
         },
         {
           "english": "We go to the cinema on weekends.",
-          "arabic": "نذهب إلى السينما في عطلة نهاية الأسبوع."
+          "arabic": "\u202Eنذهب إلى السينما في عطلة نهاية الأسبوع."
         },
         {
           "english": "Do you like your job?",
-          "arabic": "هل تحب عملك؟"
+          "arabic": "\u202Eهل تحب عملك؟"
         }
       ],
       "quizId": "153"
@@ -235,23 +235,23 @@
       "sentences": [
         {
           "english": "Today is Monday.",
-          "arabic": "اليوم هو الاثنين."
+          "arabic": "\u202Eاليوم هو الاثنين."
         },
         {
           "english": "Tomorrow is Tuesday.",
-          "arabic": "غداً هو الثلاثاء."
+          "arabic": "\u202Eغداً هو الثلاثاء."
         },
         {
           "english": "I have lunch at 1 p.m.",
-          "arabic": "أتناول الغداء في الساعة الواحدة ظهراً."
+          "arabic": "\u202Eأتناول الغداء في الساعة الواحدة ظهراً."
         },
         {
           "english": "She works in a shop.",
-          "arabic": "تعمل في متجر."
+          "arabic": "\u202Eتعمل في متجر."
         },
         {
           "english": "They go to the restaurant on weekends.",
-          "arabic": "يذهبون إلى المطعم في عطلة نهاية الأسبوع."
+          "arabic": "\u202Eيذهبون إلى المطعم في عطلة نهاية الأسبوع."
         }
       ],
       "quizId": "158"
@@ -261,23 +261,23 @@
       "sentences": [
         {
           "english": "I can play football.",
-          "arabic": "أستطيع لعب كرة القدم."
+          "arabic": "\u202Eأستطيع لعب كرة القدم."
         },
         {
           "english": "Can you swim?",
-          "arabic": "هل تستطيع السباحة؟"
+          "arabic": "\u202Eهل تستطيع السباحة؟"
         },
         {
           "english": "She can sing.",
-          "arabic": "تستطيع الغناء."
+          "arabic": "\u202Eتستطيع الغناء."
         },
         {
           "english": "He can ride a bike.",
-          "arabic": "يستطيع ركوب الدراجة."
+          "arabic": "\u202Eيستطيع ركوب الدراجة."
         },
         {
           "english": "I can't play the piano.",
-          "arabic": "لا أستطيع العزف على البيانو."
+          "arabic": "\u202Eلا أستطيع العزف على البيانو."
         }
       ],
       "quizId": "159"
@@ -287,23 +287,23 @@
       "sentences": [
         {
           "english": "There is a sofa in the living room.",
-          "arabic": "هناك أريكة في غرفة المعيشة."
+          "arabic": "\u202Eهناك أريكة في غرفة المعيشة."
         },
         {
           "english": "There are six chairs.",
-          "arabic": "هناك ستة كراسي."
+          "arabic": "\u202Eهناك ستة كراسي."
         },
         {
           "english": "Is there a TV?",
-          "arabic": "هل هناك تلفاز؟"
+          "arabic": "\u202Eهل هناك تلفاز؟"
         },
         {
           "english": "There isn't a lamp.",
-          "arabic": "لا يوجد مصباح."
+          "arabic": "\u202Eلا يوجد مصباح."
         },
         {
           "english": "There are two beds in the bedroom.",
-          "arabic": "هناك سريران في غرفة النوم."
+          "arabic": "\u202Eهناك سريران في غرفة النوم."
         }
       ],
       "quizId": "161"
@@ -1179,7 +1179,7 @@
         },
         {
           "english": "My computer has a virus.",
-          "arabic": "جهاز الكمبيوتر لدي به فيروس."
+          "arabic": "\u202Eجهاز الكمبيوتر لدي به فيروس."
         },
         {
           "english": "A spoon is for eating soup.",
@@ -1197,7 +1197,7 @@
       "sentences": [
         {
           "english": "Movie is American. Film is British.",
-          "arabic": "كلمة Movie أمريكية. كلمة Film بريطانية."
+          "arabic": "\u202Eكلمة Movie أمريكية. كلمة Film بريطانية."
         },
         {
           "english": "The film is set in my country.",
@@ -1213,7 +1213,7 @@
         },
         {
           "english": "Horror is a type of film.",
-          "arabic": "الرعب هو نوع من الأفلام."
+          "arabic": "\u202Eالرعب هو نوع من الأفلام."
         }
       ],
       "quizId": "199"
@@ -1283,7 +1283,7 @@
         },
         {
           "english": "Popcorn is a snack at the cinema.",
-          "arabic": "الفشار وجبة خفيفة في السينما."
+          "arabic": "\u202Eالفشار وجبة خفيفة في السينما."
         },
         {
           "english": "This film is exciting.",
@@ -1395,7 +1395,7 @@
         },
         {
           "english": "I follow a person on Instagram who posts amazing images.",
-          "arabic": "أتتبع شخصاً على إنستغرام ينشر صوراً مذهلة."
+          "arabic": "\u202Eأتتبع شخصاً على إنستغرام ينشر صوراً مذهلة."
         }
       ],
       "quizId": "206"
@@ -1421,7 +1421,7 @@
         },
         {
           "english": "A blog is a diary published on the internet.",
-          "arabic": "المدونة هي يوميات منشورة على الإنترنت."
+          "arabic": "\u202Eالمدونة هي يوميات منشورة على الإنترنت."
         }
       ],
       "quizId": "207"
@@ -1535,23 +1535,23 @@
       "sentences": [
         {
           "english": "It might rain tomorrow.",
-          "arabic": "قد تمطر غداً."
+          "arabic": "\u202Eقد تمطر غداً."
         },
         {
           "english": "I might have fish and chips.",
-          "arabic": "قد أتناول السمك والبطاطا."
+          "arabic": "\u202Eقد أتناول السمك والبطاطا."
         },
         {
           "english": "I need to make a decision.",
-          "arabic": "أحتاج إلى اتخاذ قرار."
+          "arabic": "\u202Eأحتاج إلى اتخاذ قرار."
         },
         {
           "english": "I recycle rubbish.",
-          "arabic": "أقوم بإعادة تدوير النفايات."
+          "arabic": "\u202Eأقوم بإعادة تدوير النفايات."
         },
         {
           "english": "She hopes she will remember her password.",
-          "arabic": "تأمل أن تتذكر كلمة المرور الخاصة بها."
+          "arabic": "\u202Eتأمل أن تتذكر كلمة المرور الخاصة بها."
         }
       ],
       "quizId": "212"
